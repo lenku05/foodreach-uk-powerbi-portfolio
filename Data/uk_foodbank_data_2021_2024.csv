@@ -1,0 +1,2113 @@
+Date,Region,Local_Authority,Total_Parcels,Children_Parcels,Adult_Parcels,Referral_Source,Deprivation_Decile
+2021-01-01,North East,Newcastle,1757,655,1102,Jobcentre Plus,2
+2021-01-01,North East,Sunderland,494,195,299,School/College,4
+2021-01-01,North East,Middlesbrough,1373,434,939,Citizens Advice,3
+2021-01-01,North East,Durham,789,335,454,Housing Services,2
+2021-01-01,North West,Manchester,698,245,453,Health Services,3
+2021-01-01,North West,Liverpool,849,356,493,Social Services,3
+2021-01-01,North West,Preston,885,334,551,Health Services,4
+2021-01-01,North West,Blackpool,1188,465,723,Jobcentre Plus,1
+2021-01-01,Yorkshire,Leeds,472,178,294,Jobcentre Plus,3
+2021-01-01,Yorkshire,Sheffield,453,143,310,Jobcentre Plus,5
+2021-01-01,Yorkshire,Bradford,824,274,550,School/College,5
+2021-01-01,Yorkshire,Hull,908,386,522,Housing Services,2
+2021-01-01,West Midlands,Birmingham,799,272,527,Other Agency,4
+2021-01-01,West Midlands,Coventry,923,397,526,Health Services,2
+2021-01-01,West Midlands,Wolverhampton,1418,521,897,Social Services,2
+2021-01-01,West Midlands,Stoke,929,415,514,Jobcentre Plus,2
+2021-01-01,East Midlands,Nottingham,773,236,537,Social Services,3
+2021-01-01,East Midlands,Leicester,780,291,489,Jobcentre Plus,6
+2021-01-01,East Midlands,Derby,642,272,370,Jobcentre Plus,5
+2021-01-01,East Midlands,Lincoln,313,105,208,Health Services,3
+2021-01-01,East,Norwich,695,224,471,Jobcentre Plus,7
+2021-01-01,East,Peterborough,473,149,324,Other Agency,8
+2021-01-01,East,Ipswich,366,140,226,Housing Services,5
+2021-01-01,East,Cambridge,605,188,417,Jobcentre Plus,7
+2021-01-01,London,Tower Hamlets,938,322,616,Self Referral,6
+2021-01-01,London,Newham,864,265,599,Housing Services,5
+2021-01-01,London,Hackney,654,238,416,Self Referral,6
+2021-01-01,London,Lambeth,952,410,542,Jobcentre Plus,4
+2021-01-01,South East,Brighton,389,129,260,Jobcentre Plus,7
+2021-01-01,South East,Portsmouth,596,196,400,Housing Services,7
+2021-01-01,South East,Reading,353,128,225,Social Services,7
+2021-01-01,South East,Southampton,584,194,390,School/College,6
+2021-01-01,South West,Bristol,633,251,382,Housing Services,7
+2021-01-01,South West,Plymouth,931,415,516,Social Services,5
+2021-01-01,South West,Exeter,365,112,253,Other Agency,6
+2021-01-01,South West,Gloucester,487,187,300,Jobcentre Plus,6
+2021-01-01,Wales,Cardiff,765,330,435,Jobcentre Plus,5
+2021-01-01,Wales,Swansea,1304,468,836,Jobcentre Plus,5
+2021-01-01,Wales,Newport,1350,421,929,Citizens Advice,2
+2021-01-01,Wales,Wrexham,1314,509,805,,3
+2021-01-01,Scotland,Glasgow,908,356,552,Jobcentre Plus,5
+2021-01-01,Scotland,Edinburgh,366,127,239,Jobcentre Plus,3
+2021-01-01,Scotland,Aberdeen,551,233,318,Jobcentre Plus,3
+2021-01-01,Scotland,Dundee,337,124,213,Jobcentre Plus,4
+2021-02-01,North East,Newcastle,1527,458,1069,Jobcentre Plus,2
+2021-02-01,North East,Sunderland,553,232,321,Social Services,1
+2021-02-01,North East,Middlesbrough,586,177,409,Health Services,4
+2021-02-01,North East,Durham,1132,414,718,School/College,1
+2021-02-01,North West,Manchester,1324,545,779,School/College,3
+2021-02-01,North West,Liverpool,969,345,624,,2
+2021-02-01,North West,Preston,557,216,341,Social Services,2
+2021-02-01,North West,Blackpool,946,390,556,Jobcentre Plus,3
+2021-02-01,Yorkshire,Leeds,1395,531,864,Self Referral,4
+2021-02-01,Yorkshire,Sheffield,534,219,315,Jobcentre Plus,5
+2021-02-01,Yorkshire,Bradford,949,302,647,Social Services,2
+2021-02-01,Yorkshire,Hull,553,242,311,Social Services,4
+2021-02-01,West Midlands,Birmingham,1429,642,787,Jobcentre Plus,5
+2021-02-01,West Midlands,Coventry,1179,489,690,School/College,4
+2021-02-01,West Midlands,Wolverhampton,1019,309,710,Housing Services,2
+2021-02-01,West Midlands,Stoke,340,133,207,Health Services,5
+2021-02-01,East Midlands,Nottingham,438,137,301,Social Services,6
+2021-02-01,East Midlands,Leicester,814,343,471,Jobcentre Plus,6
+2021-02-01,East Midlands,Derby,503,194,309,Jobcentre Plus,4
+2021-02-01,East Midlands,Lincoln,710,269,441,Jobcentre Plus,4
+2021-02-01,East,Norwich,492,179,313,Jobcentre Plus,7
+2021-02-01,East,Peterborough,669,261,408,Jobcentre Plus,6
+2021-02-01,East,Ipswich,705,253,452,Jobcentre Plus,6
+2021-02-01,East,Cambridge,263,93,170,Self Referral,5
+2021-02-01,London,Tower Hamlets,780,341,439,Social Services,3
+2021-02-01,London,Newham,890,317,573,Social Services,3
+2021-02-01,London,Hackney,719,217,502,Jobcentre Plus,4
+2021-02-01,London,Lambeth,791,302,489,Jobcentre Plus,3
+2021-02-01,South East,Brighton,509,218,291,Health Services,6
+2021-02-01,South East,Portsmouth,378,147,231,Jobcentre Plus,5
+2021-02-01,South East,Reading,936,302,634,School/College,6
+2021-02-01,South East,Southampton,295,115,180,School/College,6
+2021-02-01,South West,Bristol,330,115,215,Social Services,6
+2021-02-01,South West,Plymouth,528,206,322,Jobcentre Plus,4
+2021-02-01,South West,Exeter,506,160,346,Jobcentre Plus,5
+2021-02-01,South West,Gloucester,681,255,426,Jobcentre Plus,6
+2021-02-01,Wales,Cardiff,649,225,424,Citizens Advice,5
+2021-02-01,Wales,Swansea,1199,505,694,Social Services,4
+2021-02-01,Wales,Newport,437,171,266,Jobcentre Plus,5
+2021-02-01,Wales,Wrexham,1315,556,759,Citizens Advice,4
+2021-02-01,Scotland,Glasgow,526,227,299,Social Services,3
+2021-02-01,Scotland,Edinburgh,1123,450,673,Jobcentre Plus,5
+2021-02-01,Scotland,Aberdeen,712,252,460,Housing Services,3
+2021-02-01,Scotland,Dundee,501,203,298,Social Services,5
+2021-03-01,North East,Newcastle,646,231,415,School/College,3
+2021-03-01,North East,Sunderland,1164,491,673,Jobcentre Plus,4
+2021-03-01,North East,Middlesbrough,1086,354,732,School/College,3
+2021-03-01,North East,Durham,865,304,561,Health Services,4
+2021-03-01,North West,Manchester,1039,314,725,Jobcentre Plus,3
+2021-03-01,North West,Liverpool,291,87,204,Health Services,4
+2021-03-01,North West,Preston,976,333,643,Social Services,2
+2021-03-01,North West,Blackpool,848,318,530,Social Services,3
+2021-03-01,Yorkshire,Leeds,229,81,148,Self Referral,2
+2021-03-01,Yorkshire,Sheffield,296,129,167,Citizens Advice,5
+2021-03-01,Yorkshire,Bradford,696,211,485,Jobcentre Plus,5
+2021-03-01,Yorkshire,Hull,531,213,318,Social Services,2
+2021-03-01,West Midlands,Birmingham,462,165,297,Jobcentre Plus,4
+2021-03-01,West Midlands,Coventry,499,221,278,Social Services,3
+2021-03-01,West Midlands,Wolverhampton,934,305,629,School/College,5
+2021-03-01,West Midlands,Stoke,564,180,384,Social Services,4
+2021-03-01,East Midlands,Nottingham,583,181,402,School/College,4
+2021-03-01,East Midlands,Leicester,548,212,336,Social Services,5
+2021-03-01,East Midlands,Derby,481,150,331,Housing Services,5
+2021-03-01,East Midlands,Lincoln,616,274,342,Citizens Advice,4
+2021-03-01,East,Norwich,303,126,177,Social Services,8
+2021-03-01,East,Peterborough,626,205,421,Health Services,5
+2021-03-01,East,Ipswich,347,105,242,Citizens Advice,8
+2021-03-01,East,Cambridge,476,169,307,School/College,7
+2021-03-01,London,Tower Hamlets,749,328,421,Self Referral,6
+2021-03-01,London,Newham,318,116,202,Other Agency,6
+2021-03-01,London,Hackney,492,167,325,Other Agency,3
+2021-03-01,London,Lambeth,629,197,432,Social Services,4
+2021-03-01,South East,Brighton,357,125,232,Social Services,8
+2021-03-01,South East,Portsmouth,435,169,266,Health Services,8
+2021-03-01,South East,Reading,245,108,137,Jobcentre Plus,8
+2021-03-01,South East,Southampton,381,137,244,,6
+2021-03-01,South West,Bristol,627,245,382,Social Services,4
+2021-03-01,South West,Plymouth,313,113,200,Self Referral,7
+2021-03-01,South West,Exeter,298,129,169,Social Services,6
+2021-03-01,South West,Gloucester,309,110,199,Jobcentre Plus,4
+2021-03-01,Wales,Cardiff,500,158,342,Self Referral,4
+2021-03-01,Wales,Swansea,654,211,443,,5
+2021-03-01,Wales,Newport,373,166,207,Health Services,3
+2021-03-01,Wales,Wrexham,379,115,264,Social Services,4
+2021-03-01,Scotland,Glasgow,469,182,287,Jobcentre Plus,4
+2021-03-01,Scotland,Edinburgh,706,242,464,Jobcentre Plus,4
+2021-03-01,Scotland,Aberdeen,427,152,275,Housing Services,2
+2021-03-01,Scotland,Dundee,523,158,365,School/College,3
+2021-04-01,North East,Newcastle,979,354,625,School/College,1
+2021-04-01,North East,Sunderland,973,313,660,Health Services,1
+2021-04-01,North East,Middlesbrough,761,314,447,Social Services,1
+2021-04-01,North East,Durham,639,225,414,Jobcentre Plus,2
+2021-04-01,North West,Manchester,832,257,575,Jobcentre Plus,1
+2021-04-01,North West,Liverpool,427,191,236,Social Services,2
+2021-04-01,North West,Preston,982,369,613,Jobcentre Plus,3
+2021-04-01,North West,Blackpool,955,386,569,Jobcentre Plus,2
+2021-04-01,Yorkshire,Leeds,803,243,560,Jobcentre Plus,4
+2021-04-01,Yorkshire,Sheffield,784,313,471,Citizens Advice,3
+2021-04-01,Yorkshire,Bradford,683,225,458,Jobcentre Plus,3
+2021-04-01,Yorkshire,Hull,538,197,341,School/College,3
+2021-04-01,West Midlands,Birmingham,405,142,263,School/College,2
+2021-04-01,West Midlands,Coventry,759,255,504,Other Agency,3
+2021-04-01,West Midlands,Wolverhampton,1043,358,685,Jobcentre Plus,3
+2021-04-01,West Midlands,Stoke,777,252,525,Jobcentre Plus,4
+2021-04-01,East Midlands,Nottingham,387,152,235,Social Services,5
+2021-04-01,East Midlands,Leicester,674,224,450,Citizens Advice,3
+2021-04-01,East Midlands,Derby,375,113,262,Jobcentre Plus,5
+2021-04-01,East Midlands,Lincoln,625,270,355,Jobcentre Plus,3
+2021-04-01,East,Norwich,188,76,112,School/College,7
+2021-04-01,East,Peterborough,341,139,202,Jobcentre Plus,8
+2021-04-01,East,Ipswich,603,200,403,Social Services,5
+2021-04-01,East,Cambridge,355,139,216,Social Services,8
+2021-04-01,London,Tower Hamlets,290,126,164,Citizens Advice,6
+2021-04-01,London,Newham,601,266,335,Self Referral,5
+2021-04-01,London,Hackney,514,199,315,Social Services,6
+2021-04-01,London,Lambeth,734,224,510,Housing Services,4
+2021-04-01,South East,Brighton,512,181,331,Social Services,8
+2021-04-01,South East,Portsmouth,586,226,360,Health Services,5
+2021-04-01,South East,Reading,233,72,161,Health Services,5
+2021-04-01,South East,Southampton,517,203,314,Self Referral,6
+2021-04-01,South West,Bristol,356,125,231,Jobcentre Plus,6
+2021-04-01,South West,Plymouth,479,205,274,,4
+2021-04-01,South West,Exeter,519,163,356,Social Services,6
+2021-04-01,South West,Gloucester,398,178,220,Health Services,4
+2021-04-01,Wales,Cardiff,291,128,163,Jobcentre Plus,3
+2021-04-01,Wales,Swansea,470,145,325,Health Services,4
+2021-04-01,Wales,Newport,657,291,366,Citizens Advice,5
+2021-04-01,Wales,Wrexham,499,154,345,Jobcentre Plus,4
+2021-04-01,Scotland,Glasgow,723,310,413,Jobcentre Plus,5
+2021-04-01,Scotland,Edinburgh,808,353,455,Jobcentre Plus,3
+2021-04-01,Scotland,Aberdeen,653,272,381,Citizens Advice,2
+2021-04-01,Scotland,Dundee,391,135,256,School/College,5
+2021-05-01,North East,Newcastle,1160,394,766,Jobcentre Plus,2
+2021-05-01,North East,Sunderland,666,205,461,Social Services,4
+2021-05-01,North East,Middlesbrough,1023,405,618,,3
+2021-05-01,North East,Durham,370,129,241,Social Services,1
+2021-05-01,North West,Manchester,638,223,415,Social Services,2
+2021-05-01,North West,Liverpool,1032,336,696,Social Services,2
+2021-05-01,North West,Preston,1023,407,616,School/College,1
+2021-05-01,North West,Blackpool,866,292,574,Housing Services,1
+2021-05-01,Yorkshire,Leeds,519,200,319,Citizens Advice,5
+2021-05-01,Yorkshire,Sheffield,858,350,508,Housing Services,4
+2021-05-01,Yorkshire,Bradford,593,261,332,Jobcentre Plus,3
+2021-05-01,Yorkshire,Hull,936,359,577,,3
+2021-05-01,West Midlands,Birmingham,793,267,526,Social Services,2
+2021-05-01,West Midlands,Coventry,705,219,486,Citizens Advice,4
+2021-05-01,West Midlands,Wolverhampton,287,100,187,Self Referral,4
+2021-05-01,West Midlands,Stoke,397,134,263,Jobcentre Plus,4
+2021-05-01,East Midlands,Nottingham,259,92,167,Jobcentre Plus,3
+2021-05-01,East Midlands,Leicester,779,339,440,Social Services,4
+2021-05-01,East Midlands,Derby,715,284,431,Other Agency,5
+2021-05-01,East Midlands,Lincoln,499,202,297,Social Services,6
+2021-05-01,East,Norwich,466,140,326,Self Referral,6
+2021-05-01,East,Peterborough,321,101,220,Social Services,8
+2021-05-01,East,Ipswich,189,80,109,Jobcentre Plus,7
+2021-05-01,East,Cambridge,649,271,378,Jobcentre Plus,7
+2021-05-01,London,Tower Hamlets,419,165,254,Citizens Advice,3
+2021-05-01,London,Newham,860,361,499,Social Services,4
+2021-05-01,London,Hackney,721,218,503,Housing Services,5
+2021-05-01,London,Lambeth,508,198,310,Jobcentre Plus,6
+2021-05-01,South East,Brighton,294,105,189,Social Services,7
+2021-05-01,South East,Portsmouth,457,138,319,Jobcentre Plus,8
+2021-05-01,South East,Reading,493,218,275,Other Agency,7
+2021-05-01,South East,Southampton,215,70,145,Jobcentre Plus,8
+2021-05-01,South West,Bristol,535,216,319,Housing Services,5
+2021-05-01,South West,Plymouth,649,214,435,Self Referral,4
+2021-05-01,South West,Exeter,414,127,287,Social Services,6
+2021-05-01,South West,Gloucester,244,79,165,Jobcentre Plus,4
+2021-05-01,Wales,Cardiff,836,286,550,Health Services,4
+2021-05-01,Wales,Swansea,706,268,438,Jobcentre Plus,4
+2021-05-01,Wales,Newport,760,237,523,Jobcentre Plus,3
+2021-05-01,Wales,Wrexham,978,421,557,Social Services,5
+2021-05-01,Scotland,Glasgow,815,322,493,Social Services,2
+2021-05-01,Scotland,Edinburgh,892,325,567,Jobcentre Plus,5
+2021-05-01,Scotland,Aberdeen,604,205,399,Housing Services,4
+2021-05-01,Scotland,Dundee,749,257,492,Housing Services,3
+2021-06-01,North East,Newcastle,421,135,286,Health Services,1
+2021-06-01,North East,Sunderland,942,307,635,Jobcentre Plus,2
+2021-06-01,North East,Middlesbrough,457,147,310,Jobcentre Plus,2
+2021-06-01,North East,Durham,1016,448,568,Jobcentre Plus,1
+2021-06-01,North West,Manchester,293,119,174,School/College,4
+2021-06-01,North West,Liverpool,869,366,503,Housing Services,4
+2021-06-01,North West,Preston,437,172,265,Social Services,3
+2021-06-01,North West,Blackpool,1084,483,601,Jobcentre Plus,2
+2021-06-01,Yorkshire,Leeds,838,262,576,Self Referral,5
+2021-06-01,Yorkshire,Sheffield,326,105,221,School/College,2
+2021-06-01,Yorkshire,Bradford,257,111,146,Health Services,3
+2021-06-01,Yorkshire,Hull,882,340,542,Social Services,2
+2021-06-01,West Midlands,Birmingham,333,127,206,Social Services,3
+2021-06-01,West Midlands,Coventry,699,252,447,Jobcentre Plus,5
+2021-06-01,West Midlands,Wolverhampton,589,241,348,Social Services,4
+2021-06-01,West Midlands,Stoke,529,198,331,Jobcentre Plus,5
+2021-06-01,East Midlands,Nottingham,443,135,308,Health Services,6
+2021-06-01,East Midlands,Leicester,501,196,305,Social Services,5
+2021-06-01,East Midlands,Derby,629,227,402,School/College,6
+2021-06-01,East Midlands,Lincoln,532,237,295,Social Services,5
+2021-06-01,East,Norwich,481,168,313,Other Agency,6
+2021-06-01,East,Peterborough,288,96,192,Social Services,6
+2021-06-01,East,Ipswich,394,167,227,,5
+2021-06-01,East,Cambridge,536,164,372,Housing Services,8
+2021-06-01,London,Tower Hamlets,769,234,535,School/College,4
+2021-06-01,London,Newham,764,288,476,Jobcentre Plus,3
+2021-06-01,London,Hackney,391,144,247,Social Services,3
+2021-06-01,London,Lambeth,786,340,446,School/College,3
+2021-06-01,South East,Brighton,601,267,334,Social Services,5
+2021-06-01,South East,Portsmouth,383,149,234,Social Services,8
+2021-06-01,South East,Reading,562,248,314,Citizens Advice,8
+2021-06-01,South East,Southampton,190,60,130,Self Referral,6
+2021-06-01,South West,Bristol,499,155,344,Housing Services,7
+2021-06-01,South West,Plymouth,546,225,321,Jobcentre Plus,4
+2021-06-01,South West,Exeter,479,179,300,Jobcentre Plus,5
+2021-06-01,South West,Gloucester,656,294,362,Housing Services,4
+2021-06-01,Wales,Cardiff,477,185,292,Social Services,2
+2021-06-01,Wales,Swansea,849,279,570,Citizens Advice,2
+2021-06-01,Wales,Newport,515,214,301,Social Services,2
+2021-06-01,Wales,Wrexham,763,342,421,Social Services,2
+2021-06-01,Scotland,Glasgow,271,99,172,Jobcentre Plus,2
+2021-06-01,Scotland,Edinburgh,420,142,278,Jobcentre Plus,5
+2021-06-01,Scotland,Aberdeen,570,205,365,School/College,2
+2021-06-01,Scotland,Dundee,552,220,332,Health Services,5
+2021-07-01,North East,Newcastle,366,111,255,Citizens Advice,1
+2021-07-01,North East,Sunderland,1365,412,953,Jobcentre Plus,3
+2021-07-01,North East,Middlesbrough,971,369,602,Citizens Advice,3
+2021-07-01,North East,Durham,1329,525,804,Health Services,2
+2021-07-01,North West,Manchester,781,274,507,Jobcentre Plus,2
+2021-07-01,North West,Liverpool,604,218,386,School/College,3
+2021-07-01,North West,Preston,1234,461,773,Jobcentre Plus,4
+2021-07-01,North West,Blackpool,1000,387,613,Self Referral,1
+2021-07-01,Yorkshire,Leeds,1135,497,638,Jobcentre Plus,2
+2021-07-01,Yorkshire,Sheffield,599,210,389,Self Referral,4
+2021-07-01,Yorkshire,Bradford,479,165,314,School/College,2
+2021-07-01,Yorkshire,Hull,381,163,218,Jobcentre Plus,2
+2021-07-01,West Midlands,Birmingham,934,284,650,Social Services,3
+2021-07-01,West Midlands,Coventry,1173,496,677,Social Services,3
+2021-07-01,West Midlands,Wolverhampton,747,228,519,Housing Services,3
+2021-07-01,West Midlands,Stoke,1101,491,610,Citizens Advice,3
+2021-07-01,East Midlands,Nottingham,435,148,287,Social Services,3
+2021-07-01,East Midlands,Leicester,877,344,533,Social Services,3
+2021-07-01,East Midlands,Derby,464,149,315,Self Referral,3
+2021-07-01,East Midlands,Lincoln,229,80,149,Other Agency,4
+2021-07-01,East,Norwich,393,121,272,Other Agency,8
+2021-07-01,East,Peterborough,593,216,377,School/College,7
+2021-07-01,East,Ipswich,207,65,142,Health Services,8
+2021-07-01,East,Cambridge,517,177,340,Housing Services,7
+2021-07-01,London,Tower Hamlets,392,124,268,Social Services,4
+2021-07-01,London,Newham,282,94,188,Citizens Advice,6
+2021-07-01,London,Hackney,307,121,186,Social Services,4
+2021-07-01,London,Lambeth,760,265,495,School/College,5
+2021-07-01,South East,Brighton,316,105,211,Jobcentre Plus,8
+2021-07-01,South East,Portsmouth,497,153,344,Jobcentre Plus,7
+2021-07-01,South East,Reading,515,217,298,Social Services,7
+2021-07-01,South East,Southampton,572,178,394,Jobcentre Plus,8
+2021-07-01,South West,Bristol,745,266,479,School/College,7
+2021-07-01,South West,Plymouth,799,334,465,Citizens Advice,6
+2021-07-01,South West,Exeter,742,328,414,Citizens Advice,5
+2021-07-01,South West,Gloucester,727,311,416,Social Services,4
+2021-07-01,Wales,Cardiff,473,182,291,Health Services,3
+2021-07-01,Wales,Swansea,1110,441,669,Jobcentre Plus,2
+2021-07-01,Wales,Newport,1013,412,601,Self Referral,3
+2021-07-01,Wales,Wrexham,674,205,469,Housing Services,5
+2021-07-01,Scotland,Glasgow,888,280,608,School/College,5
+2021-07-01,Scotland,Edinburgh,956,298,658,School/College,3
+2021-07-01,Scotland,Aberdeen,698,211,487,Housing Services,5
+2021-07-01,Scotland,Dundee,310,97,213,Jobcentre Plus,4
+2021-08-01,North East,Newcastle,1338,538,800,Jobcentre Plus,4
+2021-08-01,North East,Sunderland,1114,342,772,Jobcentre Plus,1
+2021-08-01,North East,Middlesbrough,918,279,639,Health Services,4
+2021-08-01,North East,Durham,478,194,284,Health Services,3
+2021-08-01,North West,Manchester,404,165,239,Housing Services,2
+2021-08-01,North West,Liverpool,512,218,294,Jobcentre Plus,3
+2021-08-01,North West,Preston,1044,340,704,Jobcentre Plus,2
+2021-08-01,North West,Blackpool,422,162,260,Citizens Advice,4
+2021-08-01,Yorkshire,Leeds,329,105,224,Jobcentre Plus,2
+2021-08-01,Yorkshire,Sheffield,679,209,470,Health Services,4
+2021-08-01,Yorkshire,Bradford,574,239,335,Jobcentre Plus,5
+2021-08-01,Yorkshire,Hull,330,127,203,Jobcentre Plus,3
+2021-08-01,West Midlands,Birmingham,1066,331,735,Citizens Advice,4
+2021-08-01,West Midlands,Coventry,384,131,253,Citizens Advice,2
+2021-08-01,West Midlands,Wolverhampton,1155,509,646,Social Services,5
+2021-08-01,West Midlands,Stoke,702,298,404,Social Services,2
+2021-08-01,East Midlands,Nottingham,913,372,541,Jobcentre Plus,4
+2021-08-01,East Midlands,Leicester,410,169,241,Jobcentre Plus,6
+2021-08-01,East Midlands,Derby,562,201,361,School/College,6
+2021-08-01,East Midlands,Lincoln,334,103,231,Social Services,6
+2021-08-01,East,Norwich,467,165,302,School/College,6
+2021-08-01,East,Peterborough,719,290,429,Social Services,5
+2021-08-01,East,Ipswich,641,240,401,Jobcentre Plus,8
+2021-08-01,East,Cambridge,704,252,452,Self Referral,8
+2021-08-01,London,Tower Hamlets,1077,451,626,Jobcentre Plus,3
+2021-08-01,London,Newham,600,239,361,Jobcentre Plus,4
+2021-08-01,London,Hackney,489,219,270,Health Services,5
+2021-08-01,London,Lambeth,1008,401,607,Health Services,5
+2021-08-01,South East,Brighton,229,87,142,,8
+2021-08-01,South East,Portsmouth,430,164,266,Jobcentre Plus,7
+2021-08-01,South East,Reading,648,212,436,School/College,6
+2021-08-01,South East,Southampton,377,118,259,Jobcentre Plus,7
+2021-08-01,South West,Bristol,372,140,232,School/College,4
+2021-08-01,South West,Plymouth,642,275,367,Jobcentre Plus,4
+2021-08-01,South West,Exeter,281,97,184,School/College,4
+2021-08-01,South West,Gloucester,892,388,504,Self Referral,6
+2021-08-01,Wales,Cardiff,910,397,513,Housing Services,4
+2021-08-01,Wales,Swansea,340,121,219,Jobcentre Plus,4
+2021-08-01,Wales,Newport,837,373,464,Social Services,4
+2021-08-01,Wales,Wrexham,799,294,505,Social Services,5
+2021-08-01,Scotland,Glasgow,471,147,324,Health Services,4
+2021-08-01,Scotland,Edinburgh,676,278,398,Jobcentre Plus,5
+2021-08-01,Scotland,Aberdeen,483,199,284,Jobcentre Plus,2
+2021-08-01,Scotland,Dundee,598,249,349,,3
+2021-09-01,North East,Newcastle,441,156,285,Jobcentre Plus,1
+2021-09-01,North East,Sunderland,799,244,555,Self Referral,4
+2021-09-01,North East,Middlesbrough,1053,443,610,Health Services,4
+2021-09-01,North East,Durham,440,185,255,Jobcentre Plus,3
+2021-09-01,North West,Manchester,1028,333,695,Jobcentre Plus,3
+2021-09-01,North West,Liverpool,749,249,500,Self Referral,4
+2021-09-01,North West,Preston,552,205,347,Health Services,4
+2021-09-01,North West,Blackpool,1119,457,662,Jobcentre Plus,2
+2021-09-01,Yorkshire,Leeds,591,262,329,Jobcentre Plus,5
+2021-09-01,Yorkshire,Sheffield,673,210,463,Citizens Advice,5
+2021-09-01,Yorkshire,Bradford,770,273,497,Jobcentre Plus,4
+2021-09-01,Yorkshire,Hull,676,205,471,Health Services,3
+2021-09-01,West Midlands,Birmingham,394,157,237,Health Services,3
+2021-09-01,West Midlands,Coventry,530,199,331,Jobcentre Plus,3
+2021-09-01,West Midlands,Wolverhampton,938,415,523,Self Referral,2
+2021-09-01,West Midlands,Stoke,756,300,456,Jobcentre Plus,3
+2021-09-01,East Midlands,Nottingham,563,211,352,Jobcentre Plus,6
+2021-09-01,East Midlands,Leicester,279,94,185,Housing Services,4
+2021-09-01,East Midlands,Derby,741,313,428,Social Services,4
+2021-09-01,East Midlands,Lincoln,687,250,437,Social Services,6
+2021-09-01,East,Norwich,303,102,201,Jobcentre Plus,6
+2021-09-01,East,Peterborough,182,61,121,,7
+2021-09-01,East,Ipswich,261,84,177,Jobcentre Plus,8
+2021-09-01,East,Cambridge,616,215,401,Health Services,8
+2021-09-01,London,Tower Hamlets,300,111,189,Health Services,3
+2021-09-01,London,Newham,252,75,177,School/College,4
+2021-09-01,London,Hackney,373,132,241,School/College,3
+2021-09-01,London,Lambeth,432,158,274,School/College,6
+2021-09-01,South East,Brighton,370,111,259,Jobcentre Plus,7
+2021-09-01,South East,Portsmouth,184,76,108,Health Services,5
+2021-09-01,South East,Reading,418,177,241,Self Referral,8
+2021-09-01,South East,Southampton,166,71,95,Health Services,8
+2021-09-01,South West,Bristol,427,135,292,Jobcentre Plus,6
+2021-09-01,South West,Plymouth,535,220,315,School/College,6
+2021-09-01,South West,Exeter,406,163,243,,4
+2021-09-01,South West,Gloucester,190,67,123,Citizens Advice,4
+2021-09-01,Wales,Cardiff,363,158,205,Jobcentre Plus,5
+2021-09-01,Wales,Swansea,523,181,342,Jobcentre Plus,2
+2021-09-01,Wales,Newport,591,181,410,Housing Services,4
+2021-09-01,Wales,Wrexham,560,231,329,Jobcentre Plus,5
+2021-09-01,Scotland,Glasgow,247,84,163,Jobcentre Plus,3
+2021-09-01,Scotland,Edinburgh,469,167,302,Jobcentre Plus,5
+2021-09-01,Scotland,Aberdeen,690,305,385,Other Agency,2
+2021-09-01,Scotland,Dundee,409,134,275,Social Services,4
+2021-10-01,North East,Newcastle,493,174,319,Housing Services,4
+2021-10-01,North East,Sunderland,1025,389,636,Self Referral,4
+2021-10-01,North East,Middlesbrough,1183,503,680,Jobcentre Plus,2
+2021-10-01,North East,Durham,498,206,292,Social Services,4
+2021-10-01,North West,Manchester,286,123,163,Jobcentre Plus,1
+2021-10-01,North West,Liverpool,568,247,321,Jobcentre Plus,1
+2021-10-01,North West,Preston,1035,329,706,Other Agency,4
+2021-10-01,North West,Blackpool,358,116,242,Jobcentre Plus,3
+2021-10-01,Yorkshire,Leeds,236,96,140,Jobcentre Plus,4
+2021-10-01,Yorkshire,Sheffield,294,96,198,Social Services,5
+2021-10-01,Yorkshire,Bradford,796,356,440,Social Services,3
+2021-10-01,Yorkshire,Hull,1004,323,681,Health Services,4
+2021-10-01,West Midlands,Birmingham,876,306,570,,2
+2021-10-01,West Midlands,Coventry,555,175,380,Jobcentre Plus,3
+2021-10-01,West Midlands,Wolverhampton,507,203,304,Jobcentre Plus,3
+2021-10-01,West Midlands,Stoke,634,191,443,Self Referral,5
+2021-10-01,East Midlands,Nottingham,520,227,293,Health Services,5
+2021-10-01,East Midlands,Leicester,302,126,176,Social Services,6
+2021-10-01,East Midlands,Derby,565,224,341,Social Services,6
+2021-10-01,East Midlands,Lincoln,217,86,131,Jobcentre Plus,4
+2021-10-01,East,Norwich,402,129,273,Social Services,6
+2021-10-01,East,Peterborough,491,193,298,Jobcentre Plus,8
+2021-10-01,East,Ipswich,599,184,415,Jobcentre Plus,6
+2021-10-01,East,Cambridge,220,97,123,Health Services,8
+2021-10-01,London,Tower Hamlets,372,160,212,Jobcentre Plus,5
+2021-10-01,London,Newham,679,261,418,Health Services,4
+2021-10-01,London,Hackney,700,258,442,Jobcentre Plus,6
+2021-10-01,London,Lambeth,418,126,292,Jobcentre Plus,6
+2021-10-01,South East,Brighton,520,157,363,Health Services,5
+2021-10-01,South East,Portsmouth,341,150,191,Jobcentre Plus,6
+2021-10-01,South East,Reading,254,99,155,Social Services,6
+2021-10-01,South East,Southampton,509,163,346,Self Referral,6
+2021-10-01,South West,Bristol,608,263,345,Jobcentre Plus,6
+2021-10-01,South West,Plymouth,764,251,513,Housing Services,4
+2021-10-01,South West,Exeter,463,157,306,Health Services,6
+2021-10-01,South West,Gloucester,345,104,241,Health Services,5
+2021-10-01,Wales,Cardiff,634,262,372,Health Services,4
+2021-10-01,Wales,Swansea,815,352,463,Jobcentre Plus,4
+2021-10-01,Wales,Newport,717,317,400,Self Referral,3
+2021-10-01,Wales,Wrexham,601,185,416,,5
+2021-10-01,Scotland,Glasgow,830,285,545,Social Services,3
+2021-10-01,Scotland,Edinburgh,361,153,208,Jobcentre Plus,4
+2021-10-01,Scotland,Aberdeen,999,419,580,Jobcentre Plus,4
+2021-10-01,Scotland,Dundee,389,127,262,Self Referral,3
+2021-11-01,North East,Newcastle,1014,396,618,Self Referral,4
+2021-11-01,North East,Sunderland,955,298,657,Citizens Advice,4
+2021-11-01,North East,Middlesbrough,620,251,369,Health Services,4
+2021-11-01,North East,Durham,849,262,587,Other Agency,3
+2021-11-01,North West,Manchester,525,229,296,Health Services,1
+2021-11-01,North West,Liverpool,550,183,367,Social Services,1
+2021-11-01,North West,Preston,879,375,504,Jobcentre Plus,1
+2021-11-01,North West,Blackpool,916,391,525,Social Services,4
+2021-11-01,Yorkshire,Leeds,892,290,602,Health Services,3
+2021-11-01,Yorkshire,Sheffield,601,258,343,Self Referral,4
+2021-11-01,Yorkshire,Bradford,902,372,530,School/College,4
+2021-11-01,Yorkshire,Hull,404,131,273,Jobcentre Plus,4
+2021-11-01,West Midlands,Birmingham,920,317,603,Jobcentre Plus,2
+2021-11-01,West Midlands,Coventry,879,376,503,Citizens Advice,2
+2021-11-01,West Midlands,Wolverhampton,827,287,540,Housing Services,3
+2021-11-01,West Midlands,Stoke,534,184,350,Jobcentre Plus,3
+2021-11-01,East Midlands,Nottingham,651,229,422,Health Services,3
+2021-11-01,East Midlands,Leicester,223,73,150,Other Agency,5
+2021-11-01,East Midlands,Derby,351,139,212,Health Services,6
+2021-11-01,East Midlands,Lincoln,302,130,172,Social Services,6
+2021-11-01,East,Norwich,381,125,256,,5
+2021-11-01,East,Peterborough,528,172,356,,7
+2021-11-01,East,Ipswich,444,151,293,School/College,8
+2021-11-01,East,Cambridge,232,92,140,Social Services,8
+2021-11-01,London,Tower Hamlets,863,340,523,Social Services,3
+2021-11-01,London,Newham,467,179,288,Jobcentre Plus,6
+2021-11-01,London,Hackney,253,88,165,Jobcentre Plus,6
+2021-11-01,London,Lambeth,864,374,490,School/College,4
+2021-11-01,South East,Brighton,543,170,373,Jobcentre Plus,5
+2021-11-01,South East,Portsmouth,414,125,289,Self Referral,8
+2021-11-01,South East,Reading,341,116,225,Housing Services,8
+2021-11-01,South East,Southampton,342,143,199,,5
+2021-11-01,South West,Bristol,735,241,494,Jobcentre Plus,5
+2021-11-01,South West,Plymouth,481,212,269,Health Services,6
+2021-11-01,South West,Exeter,243,99,144,Jobcentre Plus,6
+2021-11-01,South West,Gloucester,394,153,241,Self Referral,7
+2021-11-01,Wales,Cardiff,420,127,293,Jobcentre Plus,4
+2021-11-01,Wales,Swansea,258,82,176,Housing Services,3
+2021-11-01,Wales,Newport,535,202,333,Jobcentre Plus,5
+2021-11-01,Wales,Wrexham,854,344,510,Social Services,2
+2021-11-01,Scotland,Glasgow,694,210,484,School/College,4
+2021-11-01,Scotland,Edinburgh,795,347,448,Citizens Advice,4
+2021-11-01,Scotland,Aberdeen,599,225,374,Health Services,5
+2021-11-01,Scotland,Dundee,725,325,400,Jobcentre Plus,4
+2021-12-01,North East,Newcastle,749,309,440,School/College,2
+2021-12-01,North East,Sunderland,1384,446,938,Self Referral,2
+2021-12-01,North East,Middlesbrough,510,165,345,Other Agency,2
+2021-12-01,North East,Durham,676,206,470,School/College,1
+2021-12-01,North West,Manchester,689,244,445,Jobcentre Plus,2
+2021-12-01,North West,Liverpool,1611,713,898,Self Referral,1
+2021-12-01,North West,Preston,1616,500,1116,School/College,4
+2021-12-01,North West,Blackpool,772,234,538,Jobcentre Plus,1
+2021-12-01,Yorkshire,Leeds,1310,521,789,School/College,4
+2021-12-01,Yorkshire,Sheffield,823,280,543,Jobcentre Plus,4
+2021-12-01,Yorkshire,Bradford,562,245,317,Jobcentre Plus,5
+2021-12-01,Yorkshire,Hull,1175,462,713,School/College,4
+2021-12-01,West Midlands,Birmingham,1557,513,1044,,4
+2021-12-01,West Midlands,Coventry,378,145,233,Social Services,4
+2021-12-01,West Midlands,Wolverhampton,449,156,293,Jobcentre Plus,2
+2021-12-01,West Midlands,Stoke,816,290,526,Housing Services,5
+2021-12-01,East Midlands,Nottingham,866,277,589,Self Referral,5
+2021-12-01,East Midlands,Leicester,542,183,359,Jobcentre Plus,6
+2021-12-01,East Midlands,Derby,918,400,518,Citizens Advice,3
+2021-12-01,East Midlands,Lincoln,993,358,635,Jobcentre Plus,5
+2021-12-01,East,Norwich,886,343,543,Social Services,6
+2021-12-01,East,Peterborough,331,136,195,Jobcentre Plus,8
+2021-12-01,East,Ipswich,488,204,284,Jobcentre Plus,8
+2021-12-01,East,Cambridge,525,168,357,Jobcentre Plus,6
+2021-12-01,London,Tower Hamlets,1198,532,666,,5
+2021-12-01,London,Newham,565,228,337,Health Services,5
+2021-12-01,London,Hackney,624,194,430,Jobcentre Plus,4
+2021-12-01,London,Lambeth,949,382,567,Health Services,3
+2021-12-01,South East,Brighton,573,237,336,Other Agency,6
+2021-12-01,South East,Portsmouth,565,172,393,Self Referral,7
+2021-12-01,South East,Reading,410,140,270,Social Services,7
+2021-12-01,South East,Southampton,377,144,233,School/College,7
+2021-12-01,South West,Bristol,618,191,427,,7
+2021-12-01,South West,Plymouth,863,386,477,Housing Services,5
+2021-12-01,South West,Exeter,370,113,257,School/College,5
+2021-12-01,South West,Gloucester,938,324,614,School/College,7
+2021-12-01,Wales,Cardiff,1198,377,821,Jobcentre Plus,5
+2021-12-01,Wales,Swansea,1228,470,758,,3
+2021-12-01,Wales,Newport,916,375,541,Social Services,2
+2021-12-01,Wales,Wrexham,1257,416,841,School/College,4
+2021-12-01,Scotland,Glasgow,1063,328,735,Housing Services,2
+2021-12-01,Scotland,Edinburgh,471,199,272,School/College,3
+2021-12-01,Scotland,Aberdeen,1272,389,883,School/College,4
+2021-12-01,Scotland,Dundee,557,249,308,Jobcentre Plus,2
+2022-01-01,North East,Newcastle,883,395,488,Self Referral,2
+2022-01-01,North East,Sunderland,841,296,545,Social Services,2
+2022-01-01,North East,Middlesbrough,1291,482,809,Social Services,1
+2022-01-01,North East,Durham,1953,849,1104,Self Referral,1
+2022-01-01,North West,Manchester,816,360,456,Jobcentre Plus,1
+2022-01-01,North West,Liverpool,1495,551,944,,4
+2022-01-01,North West,Preston,1275,554,721,Other Agency,3
+2022-01-01,North West,Blackpool,522,159,363,Social Services,3
+2022-01-01,Yorkshire,Leeds,570,227,343,Jobcentre Plus,5
+2022-01-01,Yorkshire,Sheffield,1319,504,815,,4
+2022-01-01,Yorkshire,Bradford,1101,436,665,Social Services,5
+2022-01-01,Yorkshire,Hull,1194,483,711,Housing Services,2
+2022-01-01,West Midlands,Birmingham,1430,475,955,Jobcentre Plus,3
+2022-01-01,West Midlands,Coventry,450,155,295,Jobcentre Plus,5
+2022-01-01,West Midlands,Wolverhampton,873,312,561,Self Referral,3
+2022-01-01,West Midlands,Stoke,1290,405,885,Health Services,4
+2022-01-01,East Midlands,Nottingham,503,172,331,School/College,5
+2022-01-01,East Midlands,Leicester,729,323,406,Health Services,3
+2022-01-01,East Midlands,Derby,667,223,444,Jobcentre Plus,6
+2022-01-01,East Midlands,Lincoln,788,249,539,Self Referral,5
+2022-01-01,East,Norwich,624,276,348,Social Services,8
+2022-01-01,East,Peterborough,749,319,430,Social Services,5
+2022-01-01,East,Ipswich,644,229,415,School/College,8
+2022-01-01,East,Cambridge,280,117,163,School/College,7
+2022-01-01,London,Tower Hamlets,378,135,243,,3
+2022-01-01,London,Newham,1250,489,761,Jobcentre Plus,5
+2022-01-01,London,Hackney,1208,419,789,Citizens Advice,3
+2022-01-01,London,Lambeth,1064,438,626,Jobcentre Plus,4
+2022-01-01,South East,Brighton,481,169,312,Self Referral,6
+2022-01-01,South East,Portsmouth,347,154,193,Jobcentre Plus,7
+2022-01-01,South East,Reading,754,324,430,Jobcentre Plus,6
+2022-01-01,South East,Southampton,886,270,616,Social Services,8
+2022-01-01,South West,Bristol,877,329,548,Housing Services,4
+2022-01-01,South West,Plymouth,1146,424,722,Jobcentre Plus,4
+2022-01-01,South West,Exeter,931,352,579,Jobcentre Plus,6
+2022-01-01,South West,Gloucester,509,166,343,Social Services,4
+2022-01-01,Wales,Cardiff,1446,475,971,Health Services,4
+2022-01-01,Wales,Swansea,1503,668,835,School/College,4
+2022-01-01,Wales,Newport,1232,376,856,Citizens Advice,2
+2022-01-01,Wales,Wrexham,1270,383,887,Jobcentre Plus,4
+2022-01-01,Scotland,Glasgow,811,337,474,Jobcentre Plus,2
+2022-01-01,Scotland,Edinburgh,412,173,239,Social Services,5
+2022-01-01,Scotland,Aberdeen,699,229,470,,3
+2022-01-01,Scotland,Dundee,1155,457,698,School/College,4
+2022-02-01,North East,Newcastle,527,230,297,School/College,3
+2022-02-01,North East,Sunderland,717,244,473,Jobcentre Plus,3
+2022-02-01,North East,Middlesbrough,562,235,327,Social Services,2
+2022-02-01,North East,Durham,1617,567,1050,Housing Services,1
+2022-02-01,North West,Manchester,514,189,325,Other Agency,3
+2022-02-01,North West,Liverpool,443,158,285,Housing Services,2
+2022-02-01,North West,Preston,1306,404,902,School/College,4
+2022-02-01,North West,Blackpool,1641,621,1020,Self Referral,4
+2022-02-01,Yorkshire,Leeds,1207,430,777,Social Services,4
+2022-02-01,Yorkshire,Sheffield,946,392,554,Jobcentre Plus,3
+2022-02-01,Yorkshire,Bradford,785,310,475,Jobcentre Plus,4
+2022-02-01,Yorkshire,Hull,1052,458,594,Social Services,2
+2022-02-01,West Midlands,Birmingham,712,237,475,Self Referral,3
+2022-02-01,West Midlands,Coventry,787,245,542,Jobcentre Plus,5
+2022-02-01,West Midlands,Wolverhampton,1306,473,833,Health Services,3
+2022-02-01,West Midlands,Stoke,1379,453,926,Health Services,2
+2022-02-01,East Midlands,Nottingham,857,364,493,Housing Services,5
+2022-02-01,East Midlands,Leicester,1126,338,788,Housing Services,6
+2022-02-01,East Midlands,Derby,553,177,376,School/College,3
+2022-02-01,East Midlands,Lincoln,1153,360,793,Jobcentre Plus,5
+2022-02-01,East,Norwich,801,298,503,Jobcentre Plus,6
+2022-02-01,East,Peterborough,594,194,400,School/College,6
+2022-02-01,East,Ipswich,631,209,422,Self Referral,8
+2022-02-01,East,Cambridge,443,185,258,Jobcentre Plus,5
+2022-02-01,London,Tower Hamlets,1025,375,650,Other Agency,5
+2022-02-01,London,Newham,965,321,644,Jobcentre Plus,4
+2022-02-01,London,Hackney,1037,389,648,Jobcentre Plus,3
+2022-02-01,London,Lambeth,1107,489,618,Housing Services,3
+2022-02-01,South East,Brighton,394,128,266,Social Services,6
+2022-02-01,South East,Portsmouth,433,187,246,Jobcentre Plus,5
+2022-02-01,South East,Reading,690,294,396,Health Services,5
+2022-02-01,South East,Southampton,568,190,378,Jobcentre Plus,6
+2022-02-01,South West,Bristol,309,133,176,Social Services,4
+2022-02-01,South West,Plymouth,314,100,214,Health Services,5
+2022-02-01,South West,Exeter,869,390,479,Jobcentre Plus,7
+2022-02-01,South West,Gloucester,864,349,515,Jobcentre Plus,5
+2022-02-01,Wales,Cardiff,420,148,272,,5
+2022-02-01,Wales,Swansea,1429,635,794,Social Services,3
+2022-02-01,Wales,Newport,1440,521,919,Jobcentre Plus,3
+2022-02-01,Wales,Wrexham,1416,546,870,Social Services,5
+2022-02-01,Scotland,Glasgow,421,132,289,School/College,3
+2022-02-01,Scotland,Edinburgh,1330,580,750,School/College,3
+2022-02-01,Scotland,Aberdeen,417,141,276,Health Services,3
+2022-02-01,Scotland,Dundee,1377,527,850,Jobcentre Plus,2
+2022-03-01,North East,Newcastle,1167,485,682,Housing Services,1
+2022-03-01,North East,Sunderland,1115,388,727,Social Services,1
+2022-03-01,North East,Middlesbrough,474,154,320,Social Services,4
+2022-03-01,North East,Durham,613,206,407,Housing Services,1
+2022-03-01,North West,Manchester,707,296,411,,4
+2022-03-01,North West,Liverpool,883,395,488,School/College,2
+2022-03-01,North West,Preston,674,280,394,Jobcentre Plus,3
+2022-03-01,North West,Blackpool,614,234,380,Social Services,4
+2022-03-01,Yorkshire,Leeds,313,117,196,Jobcentre Plus,4
+2022-03-01,Yorkshire,Sheffield,485,206,279,Housing Services,3
+2022-03-01,Yorkshire,Bradford,292,96,196,Jobcentre Plus,5
+2022-03-01,Yorkshire,Hull,904,339,565,Jobcentre Plus,2
+2022-03-01,West Midlands,Birmingham,861,317,544,Health Services,5
+2022-03-01,West Midlands,Coventry,990,317,673,Social Services,4
+2022-03-01,West Midlands,Wolverhampton,923,296,627,Jobcentre Plus,3
+2022-03-01,West Midlands,Stoke,352,146,206,Jobcentre Plus,4
+2022-03-01,East Midlands,Nottingham,758,313,445,Jobcentre Plus,4
+2022-03-01,East Midlands,Leicester,277,114,163,Housing Services,6
+2022-03-01,East Midlands,Derby,455,199,256,Social Services,5
+2022-03-01,East Midlands,Lincoln,753,288,465,Jobcentre Plus,4
+2022-03-01,East,Norwich,308,92,216,Jobcentre Plus,7
+2022-03-01,East,Peterborough,226,69,157,Jobcentre Plus,7
+2022-03-01,East,Ipswich,595,257,338,Health Services,7
+2022-03-01,East,Cambridge,816,323,493,Jobcentre Plus,5
+2022-03-01,London,Tower Hamlets,313,94,219,Jobcentre Plus,3
+2022-03-01,London,Newham,367,130,237,,6
+2022-03-01,London,Hackney,598,182,416,,6
+2022-03-01,London,Lambeth,802,273,529,Jobcentre Plus,4
+2022-03-01,South East,Brighton,544,212,332,Jobcentre Plus,8
+2022-03-01,South East,Portsmouth,703,231,472,Jobcentre Plus,6
+2022-03-01,South East,Reading,531,182,349,Jobcentre Plus,6
+2022-03-01,South East,Southampton,189,65,124,Jobcentre Plus,8
+2022-03-01,South West,Bristol,415,167,248,Jobcentre Plus,6
+2022-03-01,South West,Plymouth,283,116,167,Social Services,4
+2022-03-01,South West,Exeter,759,254,505,Housing Services,6
+2022-03-01,South West,Gloucester,298,108,190,Jobcentre Plus,5
+2022-03-01,Wales,Cardiff,352,130,222,Self Referral,2
+2022-03-01,Wales,Swansea,881,336,545,Jobcentre Plus,4
+2022-03-01,Wales,Newport,381,131,250,School/College,2
+2022-03-01,Wales,Wrexham,898,296,602,Jobcentre Plus,2
+2022-03-01,Scotland,Glasgow,755,270,485,Jobcentre Plus,4
+2022-03-01,Scotland,Edinburgh,803,248,555,Social Services,5
+2022-03-01,Scotland,Aberdeen,464,177,287,Other Agency,5
+2022-03-01,Scotland,Dundee,826,345,481,Self Referral,4
+2022-04-01,North East,Newcastle,601,215,386,Citizens Advice,4
+2022-04-01,North East,Sunderland,554,194,360,Jobcentre Plus,4
+2022-04-01,North East,Middlesbrough,393,147,246,Social Services,4
+2022-04-01,North East,Durham,1153,452,701,Social Services,4
+2022-04-01,North West,Manchester,1034,403,631,Social Services,4
+2022-04-01,North West,Liverpool,521,185,336,Social Services,3
+2022-04-01,North West,Preston,740,222,518,Jobcentre Plus,4
+2022-04-01,North West,Blackpool,750,283,467,Social Services,2
+2022-04-01,Yorkshire,Leeds,439,162,277,Jobcentre Plus,5
+2022-04-01,Yorkshire,Sheffield,806,296,510,Social Services,5
+2022-04-01,Yorkshire,Bradford,378,130,248,Jobcentre Plus,5
+2022-04-01,Yorkshire,Hull,1126,464,662,Other Agency,4
+2022-04-01,West Midlands,Birmingham,865,276,589,Health Services,2
+2022-04-01,West Midlands,Coventry,704,233,471,Citizens Advice,3
+2022-04-01,West Midlands,Wolverhampton,1141,505,636,Jobcentre Plus,2
+2022-04-01,West Midlands,Stoke,1211,518,693,Jobcentre Plus,3
+2022-04-01,East Midlands,Nottingham,844,309,535,Citizens Advice,4
+2022-04-01,East Midlands,Leicester,814,282,532,Citizens Advice,5
+2022-04-01,East Midlands,Derby,709,234,475,Self Referral,6
+2022-04-01,East Midlands,Lincoln,370,133,237,Jobcentre Plus,4
+2022-04-01,East,Norwich,480,184,296,Social Services,8
+2022-04-01,East,Peterborough,570,233,337,Jobcentre Plus,7
+2022-04-01,East,Ipswich,274,98,176,Citizens Advice,7
+2022-04-01,East,Cambridge,295,130,165,Housing Services,6
+2022-04-01,London,Tower Hamlets,514,210,304,Self Referral,4
+2022-04-01,London,Newham,248,77,171,Jobcentre Plus,5
+2022-04-01,London,Hackney,283,96,187,Housing Services,5
+2022-04-01,London,Lambeth,796,351,445,Jobcentre Plus,3
+2022-04-01,South East,Brighton,586,230,356,Health Services,5
+2022-04-01,South East,Portsmouth,249,110,139,Health Services,7
+2022-04-01,South East,Reading,499,162,337,Jobcentre Plus,8
+2022-04-01,South East,Southampton,700,210,490,Social Services,7
+2022-04-01,South West,Bristol,771,332,439,Jobcentre Plus,4
+2022-04-01,South West,Plymouth,568,218,350,Jobcentre Plus,7
+2022-04-01,South West,Exeter,455,169,286,Jobcentre Plus,5
+2022-04-01,South West,Gloucester,539,208,331,Health Services,7
+2022-04-01,Wales,Cardiff,1032,323,709,Social Services,5
+2022-04-01,Wales,Swansea,848,291,557,Jobcentre Plus,2
+2022-04-01,Wales,Newport,1063,370,693,Jobcentre Plus,4
+2022-04-01,Wales,Wrexham,323,121,202,Self Referral,3
+2022-04-01,Scotland,Glasgow,561,180,381,School/College,3
+2022-04-01,Scotland,Edinburgh,398,158,240,School/College,2
+2022-04-01,Scotland,Aberdeen,361,149,212,Jobcentre Plus,2
+2022-04-01,Scotland,Dundee,278,86,192,Jobcentre Plus,5
+2022-05-01,North East,Newcastle,529,231,298,School/College,4
+2022-05-01,North East,Sunderland,554,227,327,Social Services,2
+2022-05-01,North East,Middlesbrough,550,226,324,Jobcentre Plus,3
+2022-05-01,North East,Durham,483,151,332,School/College,3
+2022-05-01,North West,Manchester,427,152,275,Self Referral,4
+2022-05-01,North West,Liverpool,851,261,590,School/College,2
+2022-05-01,North West,Preston,949,351,598,,1
+2022-05-01,North West,Blackpool,477,152,325,Social Services,4
+2022-05-01,Yorkshire,Leeds,619,245,374,Social Services,5
+2022-05-01,Yorkshire,Sheffield,1038,395,643,Jobcentre Plus,2
+2022-05-01,Yorkshire,Bradford,445,152,293,Self Referral,4
+2022-05-01,Yorkshire,Hull,441,146,295,Health Services,4
+2022-05-01,West Midlands,Birmingham,459,144,315,School/College,3
+2022-05-01,West Midlands,Coventry,458,196,262,Citizens Advice,4
+2022-05-01,West Midlands,Wolverhampton,841,343,498,Social Services,5
+2022-05-01,West Midlands,Stoke,834,306,528,Jobcentre Plus,2
+2022-05-01,East Midlands,Nottingham,452,151,301,,4
+2022-05-01,East Midlands,Leicester,346,112,234,Social Services,4
+2022-05-01,East Midlands,Derby,393,149,244,Citizens Advice,5
+2022-05-01,East Midlands,Lincoln,392,160,232,,4
+2022-05-01,East,Norwich,711,222,489,Social Services,6
+2022-05-01,East,Peterborough,538,179,359,Jobcentre Plus,7
+2022-05-01,East,Ipswich,678,227,451,Social Services,7
+2022-05-01,East,Cambridge,436,134,302,Jobcentre Plus,5
+2022-05-01,London,Tower Hamlets,858,334,524,Jobcentre Plus,6
+2022-05-01,London,Newham,498,193,305,Social Services,3
+2022-05-01,London,Hackney,836,288,548,Jobcentre Plus,3
+2022-05-01,London,Lambeth,313,116,197,Jobcentre Plus,5
+2022-05-01,South East,Brighton,628,277,351,Social Services,7
+2022-05-01,South East,Portsmouth,637,261,376,Social Services,7
+2022-05-01,South East,Reading,363,115,248,Jobcentre Plus,6
+2022-05-01,South East,Southampton,498,192,306,Jobcentre Plus,7
+2022-05-01,South West,Bristol,699,289,410,Jobcentre Plus,4
+2022-05-01,South West,Plymouth,424,172,252,Social Services,4
+2022-05-01,South West,Exeter,518,193,325,Social Services,7
+2022-05-01,South West,Gloucester,237,103,134,Jobcentre Plus,5
+2022-05-01,Wales,Cardiff,906,397,509,,2
+2022-05-01,Wales,Swansea,855,335,520,Jobcentre Plus,4
+2022-05-01,Wales,Newport,322,123,199,Jobcentre Plus,5
+2022-05-01,Wales,Wrexham,1164,453,711,Other Agency,2
+2022-05-01,Scotland,Glasgow,287,107,180,Social Services,3
+2022-05-01,Scotland,Edinburgh,814,309,505,School/College,5
+2022-05-01,Scotland,Aberdeen,1027,359,668,Other Agency,2
+2022-05-01,Scotland,Dundee,487,160,327,,5
+2022-06-01,North East,Newcastle,617,232,385,Self Referral,1
+2022-06-01,North East,Sunderland,980,315,665,School/College,1
+2022-06-01,North East,Middlesbrough,434,192,242,Housing Services,3
+2022-06-01,North East,Durham,1006,405,601,Health Services,2
+2022-06-01,North West,Manchester,1129,497,632,Jobcentre Plus,2
+2022-06-01,North West,Liverpool,649,275,374,Self Referral,4
+2022-06-01,North West,Preston,818,299,519,Social Services,4
+2022-06-01,North West,Blackpool,1075,344,731,Jobcentre Plus,3
+2022-06-01,Yorkshire,Leeds,381,164,217,Jobcentre Plus,3
+2022-06-01,Yorkshire,Sheffield,420,169,251,Jobcentre Plus,4
+2022-06-01,Yorkshire,Bradford,500,151,349,Self Referral,2
+2022-06-01,Yorkshire,Hull,896,332,564,Housing Services,4
+2022-06-01,West Midlands,Birmingham,1035,396,639,Jobcentre Plus,4
+2022-06-01,West Midlands,Coventry,825,289,536,School/College,3
+2022-06-01,West Midlands,Wolverhampton,939,357,582,Health Services,4
+2022-06-01,West Midlands,Stoke,1176,362,814,Other Agency,2
+2022-06-01,East Midlands,Nottingham,718,289,429,Jobcentre Plus,5
+2022-06-01,East Midlands,Leicester,330,145,185,Health Services,4
+2022-06-01,East Midlands,Derby,362,118,244,Housing Services,6
+2022-06-01,East Midlands,Lincoln,528,227,301,Social Services,5
+2022-06-01,East,Norwich,656,273,383,Self Referral,7
+2022-06-01,East,Peterborough,726,276,450,Jobcentre Plus,7
+2022-06-01,East,Ipswich,228,75,153,Other Agency,8
+2022-06-01,East,Cambridge,636,271,365,Jobcentre Plus,8
+2022-06-01,London,Tower Hamlets,903,386,517,Jobcentre Plus,5
+2022-06-01,London,Newham,632,217,415,Jobcentre Plus,5
+2022-06-01,London,Hackney,856,344,512,,3
+2022-06-01,London,Lambeth,816,326,490,Social Services,4
+2022-06-01,South East,Brighton,644,233,411,Health Services,8
+2022-06-01,South East,Portsmouth,579,177,402,Social Services,6
+2022-06-01,South East,Reading,287,98,189,Jobcentre Plus,5
+2022-06-01,South East,Southampton,700,247,453,School/College,7
+2022-06-01,South West,Bristol,601,206,395,Self Referral,4
+2022-06-01,South West,Plymouth,789,317,472,School/College,7
+2022-06-01,South West,Exeter,542,188,354,Jobcentre Plus,6
+2022-06-01,South West,Gloucester,779,269,510,Jobcentre Plus,7
+2022-06-01,Wales,Cardiff,654,270,384,Jobcentre Plus,2
+2022-06-01,Wales,Swansea,856,364,492,Jobcentre Plus,5
+2022-06-01,Wales,Newport,1125,377,748,Social Services,3
+2022-06-01,Wales,Wrexham,396,177,219,Social Services,2
+2022-06-01,Scotland,Glasgow,344,115,229,Jobcentre Plus,4
+2022-06-01,Scotland,Edinburgh,552,188,364,Jobcentre Plus,4
+2022-06-01,Scotland,Aberdeen,576,252,324,Social Services,4
+2022-06-01,Scotland,Dundee,968,367,601,Self Referral,4
+2022-07-01,North East,Newcastle,1141,353,788,Jobcentre Plus,4
+2022-07-01,North East,Sunderland,1094,385,709,Jobcentre Plus,1
+2022-07-01,North East,Middlesbrough,811,255,556,School/College,4
+2022-07-01,North East,Durham,1594,544,1050,Jobcentre Plus,2
+2022-07-01,North West,Manchester,798,250,548,Social Services,4
+2022-07-01,North West,Liverpool,512,226,286,Jobcentre Plus,2
+2022-07-01,North West,Preston,1125,430,695,Social Services,3
+2022-07-01,North West,Blackpool,567,174,393,Housing Services,4
+2022-07-01,Yorkshire,Leeds,453,141,312,Jobcentre Plus,2
+2022-07-01,Yorkshire,Sheffield,456,158,298,Social Services,3
+2022-07-01,Yorkshire,Bradford,763,312,451,Health Services,3
+2022-07-01,Yorkshire,Hull,850,313,537,Health Services,3
+2022-07-01,West Midlands,Birmingham,855,377,478,Jobcentre Plus,5
+2022-07-01,West Midlands,Coventry,866,282,584,Health Services,5
+2022-07-01,West Midlands,Wolverhampton,882,373,509,Self Referral,3
+2022-07-01,West Midlands,Stoke,752,314,438,Jobcentre Plus,2
+2022-07-01,East Midlands,Nottingham,345,125,220,Social Services,3
+2022-07-01,East Midlands,Leicester,646,233,413,,6
+2022-07-01,East Midlands,Derby,554,240,314,Jobcentre Plus,4
+2022-07-01,East Midlands,Lincoln,837,375,462,Jobcentre Plus,5
+2022-07-01,East,Norwich,288,123,165,Jobcentre Plus,6
+2022-07-01,East,Peterborough,265,118,147,School/College,6
+2022-07-01,East,Ipswich,588,182,406,Jobcentre Plus,5
+2022-07-01,East,Cambridge,625,254,371,Jobcentre Plus,5
+2022-07-01,London,Tower Hamlets,644,257,387,Self Referral,4
+2022-07-01,London,Newham,1241,425,816,Self Referral,4
+2022-07-01,London,Hackney,490,206,284,,3
+2022-07-01,London,Lambeth,427,160,267,Citizens Advice,4
+2022-07-01,South East,Brighton,658,235,423,Other Agency,5
+2022-07-01,South East,Portsmouth,793,345,448,Self Referral,7
+2022-07-01,South East,Reading,606,198,408,Housing Services,5
+2022-07-01,South East,Southampton,915,343,572,,8
+2022-07-01,South West,Bristol,710,319,391,Jobcentre Plus,7
+2022-07-01,South West,Plymouth,638,194,444,School/College,6
+2022-07-01,South West,Exeter,863,375,488,Self Referral,7
+2022-07-01,South West,Gloucester,958,383,575,Social Services,5
+2022-07-01,Wales,Cardiff,1350,570,780,,4
+2022-07-01,Wales,Swansea,545,207,338,Health Services,2
+2022-07-01,Wales,Newport,1398,588,810,Housing Services,5
+2022-07-01,Wales,Wrexham,912,307,605,School/College,3
+2022-07-01,Scotland,Glasgow,413,145,268,School/College,2
+2022-07-01,Scotland,Edinburgh,393,143,250,Jobcentre Plus,4
+2022-07-01,Scotland,Aberdeen,1121,448,673,Housing Services,5
+2022-07-01,Scotland,Dundee,1325,541,784,Jobcentre Plus,5
+2022-08-01,North East,Newcastle,874,381,493,Social Services,3
+2022-08-01,North East,Sunderland,517,189,328,Health Services,1
+2022-08-01,North East,Middlesbrough,1022,424,598,Housing Services,3
+2022-08-01,North East,Durham,457,163,294,Self Referral,2
+2022-08-01,North West,Manchester,1216,519,697,Self Referral,2
+2022-08-01,North West,Liverpool,823,259,564,Jobcentre Plus,1
+2022-08-01,North West,Preston,1055,404,651,Jobcentre Plus,4
+2022-08-01,North West,Blackpool,684,210,474,Jobcentre Plus,4
+2022-08-01,Yorkshire,Leeds,546,227,319,Jobcentre Plus,4
+2022-08-01,Yorkshire,Sheffield,720,320,400,Citizens Advice,2
+2022-08-01,Yorkshire,Bradford,342,139,203,Social Services,4
+2022-08-01,Yorkshire,Hull,401,166,235,Health Services,5
+2022-08-01,West Midlands,Birmingham,1179,368,811,Jobcentre Plus,4
+2022-08-01,West Midlands,Coventry,871,265,606,Housing Services,5
+2022-08-01,West Midlands,Wolverhampton,651,249,402,Housing Services,4
+2022-08-01,West Midlands,Stoke,656,224,432,Social Services,4
+2022-08-01,East Midlands,Nottingham,595,250,345,Health Services,3
+2022-08-01,East Midlands,Leicester,566,231,335,Self Referral,6
+2022-08-01,East Midlands,Derby,888,297,591,Jobcentre Plus,5
+2022-08-01,East Midlands,Lincoln,986,367,619,Social Services,3
+2022-08-01,East,Norwich,890,280,610,Jobcentre Plus,8
+2022-08-01,East,Peterborough,247,84,163,Health Services,5
+2022-08-01,East,Ipswich,302,101,201,Jobcentre Plus,8
+2022-08-01,East,Cambridge,854,377,477,Housing Services,8
+2022-08-01,London,Tower Hamlets,367,127,240,Citizens Advice,4
+2022-08-01,London,Newham,411,151,260,School/College,5
+2022-08-01,London,Hackney,924,295,629,Social Services,3
+2022-08-01,London,Lambeth,500,193,307,,3
+2022-08-01,South East,Brighton,868,278,590,Health Services,6
+2022-08-01,South East,Portsmouth,377,165,212,Self Referral,6
+2022-08-01,South East,Reading,526,189,337,Jobcentre Plus,5
+2022-08-01,South East,Southampton,557,215,342,Health Services,5
+2022-08-01,South West,Bristol,644,242,402,Jobcentre Plus,5
+2022-08-01,South West,Plymouth,515,206,309,Housing Services,4
+2022-08-01,South West,Exeter,338,128,210,Jobcentre Plus,7
+2022-08-01,South West,Gloucester,910,343,567,,4
+2022-08-01,Wales,Cardiff,1028,461,567,School/College,3
+2022-08-01,Wales,Swansea,701,243,458,Social Services,4
+2022-08-01,Wales,Newport,583,177,406,School/College,2
+2022-08-01,Wales,Wrexham,872,378,494,Jobcentre Plus,4
+2022-08-01,Scotland,Glasgow,1042,421,621,School/College,3
+2022-08-01,Scotland,Edinburgh,567,244,323,,3
+2022-08-01,Scotland,Aberdeen,463,173,290,,4
+2022-08-01,Scotland,Dundee,694,218,476,Other Agency,5
+2022-09-01,North East,Newcastle,1243,552,691,School/College,4
+2022-09-01,North East,Sunderland,1298,530,768,Social Services,2
+2022-09-01,North East,Middlesbrough,1377,517,860,Jobcentre Plus,1
+2022-09-01,North East,Durham,960,342,618,Social Services,2
+2022-09-01,North West,Manchester,351,128,223,School/College,1
+2022-09-01,North West,Liverpool,1147,454,693,Jobcentre Plus,3
+2022-09-01,North West,Preston,963,298,665,,3
+2022-09-01,North West,Blackpool,710,308,402,School/College,1
+2022-09-01,Yorkshire,Leeds,1017,449,568,Self Referral,5
+2022-09-01,Yorkshire,Sheffield,581,193,388,Jobcentre Plus,5
+2022-09-01,Yorkshire,Bradford,510,167,343,School/College,2
+2022-09-01,Yorkshire,Hull,637,195,442,Jobcentre Plus,5
+2022-09-01,West Midlands,Birmingham,987,313,674,Social Services,5
+2022-09-01,West Midlands,Coventry,757,274,483,Health Services,5
+2022-09-01,West Midlands,Wolverhampton,480,190,290,Other Agency,3
+2022-09-01,West Midlands,Stoke,1069,338,731,Self Referral,3
+2022-09-01,East Midlands,Nottingham,437,144,293,School/College,5
+2022-09-01,East Midlands,Leicester,835,251,584,Housing Services,6
+2022-09-01,East Midlands,Derby,471,161,310,Self Referral,4
+2022-09-01,East Midlands,Lincoln,534,201,333,Jobcentre Plus,4
+2022-09-01,East,Norwich,382,118,264,Housing Services,6
+2022-09-01,East,Peterborough,215,82,133,Jobcentre Plus,7
+2022-09-01,East,Ipswich,612,215,397,,8
+2022-09-01,East,Cambridge,477,167,310,Health Services,8
+2022-09-01,London,Tower Hamlets,438,193,245,Jobcentre Plus,6
+2022-09-01,London,Newham,334,127,207,School/College,4
+2022-09-01,London,Hackney,800,307,493,,4
+2022-09-01,London,Lambeth,251,102,149,Jobcentre Plus,5
+2022-09-01,South East,Brighton,746,263,483,Jobcentre Plus,8
+2022-09-01,South East,Portsmouth,195,85,110,Jobcentre Plus,6
+2022-09-01,South East,Reading,201,86,115,Housing Services,5
+2022-09-01,South East,Southampton,239,77,162,Health Services,5
+2022-09-01,South West,Bristol,686,286,400,Health Services,4
+2022-09-01,South West,Plymouth,643,258,385,Health Services,7
+2022-09-01,South West,Exeter,372,119,253,Social Services,4
+2022-09-01,South West,Gloucester,731,275,456,Social Services,7
+2022-09-01,Wales,Cardiff,882,332,550,School/College,4
+2022-09-01,Wales,Swansea,1068,426,642,Social Services,3
+2022-09-01,Wales,Newport,512,155,357,School/College,3
+2022-09-01,Wales,Wrexham,1079,450,629,Jobcentre Plus,2
+2022-09-01,Scotland,Glasgow,1016,405,611,School/College,2
+2022-09-01,Scotland,Edinburgh,1045,385,660,Social Services,4
+2022-09-01,Scotland,Aberdeen,309,96,213,School/College,3
+2022-09-01,Scotland,Dundee,847,264,583,Jobcentre Plus,3
+2022-10-01,North East,Newcastle,651,247,404,Jobcentre Plus,1
+2022-10-01,North East,Sunderland,1249,542,707,Housing Services,3
+2022-10-01,North East,Middlesbrough,1150,500,650,Social Services,1
+2022-10-01,North East,Durham,595,233,362,Jobcentre Plus,2
+2022-10-01,North West,Manchester,659,233,426,School/College,3
+2022-10-01,North West,Liverpool,360,154,206,Housing Services,4
+2022-10-01,North West,Preston,1276,401,875,Jobcentre Plus,2
+2022-10-01,North West,Blackpool,873,354,519,Health Services,4
+2022-10-01,Yorkshire,Leeds,434,158,276,Other Agency,4
+2022-10-01,Yorkshire,Sheffield,327,104,223,School/College,2
+2022-10-01,Yorkshire,Bradford,547,169,378,Jobcentre Plus,2
+2022-10-01,Yorkshire,Hull,304,128,176,Health Services,4
+2022-10-01,West Midlands,Birmingham,658,232,426,Jobcentre Plus,5
+2022-10-01,West Midlands,Coventry,657,211,446,,3
+2022-10-01,West Midlands,Wolverhampton,323,97,226,Jobcentre Plus,5
+2022-10-01,West Midlands,Stoke,569,197,372,Health Services,5
+2022-10-01,East Midlands,Nottingham,321,132,189,Jobcentre Plus,5
+2022-10-01,East Midlands,Leicester,605,251,354,Jobcentre Plus,5
+2022-10-01,East Midlands,Derby,728,233,495,Jobcentre Plus,4
+2022-10-01,East Midlands,Lincoln,705,253,452,Health Services,6
+2022-10-01,East,Norwich,630,204,426,Jobcentre Plus,6
+2022-10-01,East,Peterborough,519,184,335,,6
+2022-10-01,East,Ipswich,610,191,419,Jobcentre Plus,8
+2022-10-01,East,Cambridge,468,154,314,School/College,5
+2022-10-01,London,Tower Hamlets,493,166,327,Self Referral,6
+2022-10-01,London,Newham,647,226,421,Housing Services,6
+2022-10-01,London,Hackney,613,188,425,Jobcentre Plus,5
+2022-10-01,London,Lambeth,623,219,404,Social Services,4
+2022-10-01,South East,Brighton,617,258,359,Jobcentre Plus,7
+2022-10-01,South East,Portsmouth,409,158,251,Jobcentre Plus,5
+2022-10-01,South East,Reading,556,242,314,Social Services,7
+2022-10-01,South East,Southampton,233,98,135,School/College,8
+2022-10-01,South West,Bristol,440,188,252,Housing Services,4
+2022-10-01,South West,Plymouth,357,108,249,Self Referral,7
+2022-10-01,South West,Exeter,607,259,348,School/College,5
+2022-10-01,South West,Gloucester,391,167,224,Jobcentre Plus,4
+2022-10-01,Wales,Cardiff,788,252,536,Social Services,4
+2022-10-01,Wales,Swansea,520,209,311,Social Services,5
+2022-10-01,Wales,Newport,266,99,167,Citizens Advice,2
+2022-10-01,Wales,Wrexham,792,300,492,Citizens Advice,5
+2022-10-01,Scotland,Glasgow,1066,423,643,Housing Services,4
+2022-10-01,Scotland,Edinburgh,1005,372,633,Jobcentre Plus,3
+2022-10-01,Scotland,Aberdeen,701,265,436,Jobcentre Plus,2
+2022-10-01,Scotland,Dundee,281,89,192,Jobcentre Plus,5
+2022-11-01,North East,Newcastle,1053,334,719,Citizens Advice,3
+2022-11-01,North East,Sunderland,460,195,265,Social Services,1
+2022-11-01,North East,Middlesbrough,793,345,448,Jobcentre Plus,4
+2022-11-01,North East,Durham,466,170,296,,2
+2022-11-01,North West,Manchester,1005,382,623,Health Services,2
+2022-11-01,North West,Liverpool,406,154,252,Citizens Advice,4
+2022-11-01,North West,Preston,511,166,345,School/College,3
+2022-11-01,North West,Blackpool,336,113,223,Citizens Advice,1
+2022-11-01,Yorkshire,Leeds,487,218,269,Other Agency,4
+2022-11-01,Yorkshire,Sheffield,426,178,248,Jobcentre Plus,2
+2022-11-01,Yorkshire,Bradford,962,334,628,Other Agency,5
+2022-11-01,Yorkshire,Hull,408,148,260,Health Services,5
+2022-11-01,West Midlands,Birmingham,700,223,477,,3
+2022-11-01,West Midlands,Coventry,510,161,349,Social Services,4
+2022-11-01,West Midlands,Wolverhampton,491,185,306,Social Services,2
+2022-11-01,West Midlands,Stoke,857,319,538,Jobcentre Plus,3
+2022-11-01,East Midlands,Nottingham,345,144,201,,3
+2022-11-01,East Midlands,Leicester,659,252,407,School/College,3
+2022-11-01,East Midlands,Derby,740,327,413,Social Services,3
+2022-11-01,East Midlands,Lincoln,703,302,401,Health Services,6
+2022-11-01,East,Norwich,233,98,135,Jobcentre Plus,5
+2022-11-01,East,Peterborough,405,145,260,Self Referral,5
+2022-11-01,East,Ipswich,451,152,299,Jobcentre Plus,7
+2022-11-01,East,Cambridge,592,248,344,Social Services,5
+2022-11-01,London,Tower Hamlets,922,388,534,Health Services,6
+2022-11-01,London,Newham,850,357,493,Citizens Advice,3
+2022-11-01,London,Hackney,1024,321,703,Social Services,3
+2022-11-01,London,Lambeth,800,242,558,Self Referral,4
+2022-11-01,South East,Brighton,555,169,386,School/College,8
+2022-11-01,South East,Portsmouth,753,237,516,Self Referral,8
+2022-11-01,South East,Reading,541,181,360,Jobcentre Plus,8
+2022-11-01,South East,Southampton,567,224,343,Self Referral,6
+2022-11-01,South West,Bristol,305,91,214,School/College,7
+2022-11-01,South West,Plymouth,846,372,474,Health Services,4
+2022-11-01,South West,Exeter,709,293,416,,7
+2022-11-01,South West,Gloucester,517,165,352,Jobcentre Plus,7
+2022-11-01,Wales,Cardiff,519,156,363,Jobcentre Plus,5
+2022-11-01,Wales,Swansea,461,171,290,School/College,4
+2022-11-01,Wales,Newport,622,208,414,Self Referral,4
+2022-11-01,Wales,Wrexham,543,211,332,Housing Services,3
+2022-11-01,Scotland,Glasgow,397,173,224,Jobcentre Plus,4
+2022-11-01,Scotland,Edinburgh,282,105,177,Jobcentre Plus,4
+2022-11-01,Scotland,Aberdeen,253,107,146,Social Services,5
+2022-11-01,Scotland,Dundee,751,260,491,Jobcentre Plus,3
+2022-12-01,North East,Newcastle,874,392,482,Jobcentre Plus,1
+2022-12-01,North East,Sunderland,919,294,625,Jobcentre Plus,1
+2022-12-01,North East,Middlesbrough,667,272,395,Social Services,2
+2022-12-01,North East,Durham,1588,532,1056,Self Referral,4
+2022-12-01,North West,Manchester,941,409,532,Jobcentre Plus,3
+2022-12-01,North West,Liverpool,1692,597,1095,,2
+2022-12-01,North West,Preston,452,166,286,Jobcentre Plus,3
+2022-12-01,North West,Blackpool,817,315,502,School/College,4
+2022-12-01,Yorkshire,Leeds,978,430,548,Social Services,5
+2022-12-01,Yorkshire,Sheffield,962,368,594,Other Agency,3
+2022-12-01,Yorkshire,Bradford,1136,496,640,Housing Services,2
+2022-12-01,Yorkshire,Hull,862,288,574,Jobcentre Plus,4
+2022-12-01,West Midlands,Birmingham,653,214,439,Jobcentre Plus,4
+2022-12-01,West Midlands,Coventry,940,356,584,Jobcentre Plus,5
+2022-12-01,West Midlands,Wolverhampton,1315,472,843,Jobcentre Plus,3
+2022-12-01,West Midlands,Stoke,1097,491,606,Social Services,5
+2022-12-01,East Midlands,Nottingham,820,283,537,Health Services,4
+2022-12-01,East Midlands,Leicester,788,348,440,Housing Services,3
+2022-12-01,East Midlands,Derby,923,404,519,Social Services,6
+2022-12-01,East Midlands,Lincoln,730,261,469,Jobcentre Plus,4
+2022-12-01,East,Norwich,333,134,199,Self Referral,6
+2022-12-01,East,Peterborough,950,394,556,Jobcentre Plus,8
+2022-12-01,East,Ipswich,634,199,435,Social Services,7
+2022-12-01,East,Cambridge,594,235,359,Social Services,8
+2022-12-01,London,Tower Hamlets,891,303,588,Health Services,6
+2022-12-01,London,Newham,780,255,525,Jobcentre Plus,6
+2022-12-01,London,Hackney,544,228,316,Housing Services,3
+2022-12-01,London,Lambeth,1331,474,857,Jobcentre Plus,4
+2022-12-01,South East,Brighton,695,304,391,Jobcentre Plus,8
+2022-12-01,South East,Portsmouth,554,174,380,Other Agency,6
+2022-12-01,South East,Reading,467,159,308,Social Services,6
+2022-12-01,South East,Southampton,939,293,646,Jobcentre Plus,6
+2022-12-01,South West,Bristol,1075,451,624,Jobcentre Plus,6
+2022-12-01,South West,Plymouth,676,213,463,Other Agency,7
+2022-12-01,South West,Exeter,1060,476,584,Jobcentre Plus,6
+2022-12-01,South West,Gloucester,906,379,527,Jobcentre Plus,5
+2022-12-01,Wales,Cardiff,539,181,358,Self Referral,4
+2022-12-01,Wales,Swansea,408,164,244,Other Agency,5
+2022-12-01,Wales,Newport,1221,495,726,Social Services,2
+2022-12-01,Wales,Wrexham,1724,526,1198,Jobcentre Plus,2
+2022-12-01,Scotland,Glasgow,1083,418,665,Self Referral,5
+2022-12-01,Scotland,Edinburgh,823,261,562,Social Services,3
+2022-12-01,Scotland,Aberdeen,604,252,352,Housing Services,4
+2022-12-01,Scotland,Dundee,839,289,550,School/College,2
+2023-01-01,North East,Newcastle,575,246,329,Jobcentre Plus,2
+2023-01-01,North East,Sunderland,1615,592,1023,School/College,2
+2023-01-01,North East,Middlesbrough,1433,583,850,Jobcentre Plus,4
+2023-01-01,North East,Durham,581,249,332,Social Services,2
+2023-01-01,North West,Manchester,1136,452,684,Social Services,2
+2023-01-01,North West,Liverpool,1987,868,1119,Jobcentre Plus,4
+2023-01-01,North West,Preston,895,289,606,,2
+2023-01-01,North West,Blackpool,606,267,339,Self Referral,4
+2023-01-01,Yorkshire,Leeds,984,319,665,Jobcentre Plus,5
+2023-01-01,Yorkshire,Sheffield,1211,503,708,Self Referral,5
+2023-01-01,Yorkshire,Bradford,630,228,402,Jobcentre Plus,4
+2023-01-01,Yorkshire,Hull,799,261,538,Jobcentre Plus,5
+2023-01-01,West Midlands,Birmingham,840,306,534,Housing Services,5
+2023-01-01,West Midlands,Coventry,1156,510,646,Jobcentre Plus,5
+2023-01-01,West Midlands,Wolverhampton,649,263,386,Citizens Advice,3
+2023-01-01,West Midlands,Stoke,511,171,340,School/College,3
+2023-01-01,East Midlands,Nottingham,451,143,308,Jobcentre Plus,3
+2023-01-01,East Midlands,Leicester,465,208,257,Social Services,5
+2023-01-01,East Midlands,Derby,653,273,380,Jobcentre Plus,6
+2023-01-01,East Midlands,Lincoln,710,266,444,Housing Services,3
+2023-01-01,East,Norwich,732,260,472,Jobcentre Plus,7
+2023-01-01,East,Peterborough,520,165,355,Self Referral,5
+2023-01-01,East,Ipswich,491,212,279,School/College,8
+2023-01-01,East,Cambridge,777,322,455,Housing Services,6
+2023-01-01,London,Tower Hamlets,1546,688,858,Health Services,4
+2023-01-01,London,Newham,1611,607,1004,Jobcentre Plus,4
+2023-01-01,London,Hackney,1146,345,801,Jobcentre Plus,6
+2023-01-01,London,Lambeth,999,309,690,Jobcentre Plus,6
+2023-01-01,South East,Brighton,785,334,451,Health Services,8
+2023-01-01,South East,Portsmouth,984,385,599,Social Services,5
+2023-01-01,South East,Reading,904,406,498,Jobcentre Plus,6
+2023-01-01,South East,Southampton,947,353,594,Health Services,8
+2023-01-01,South West,Bristol,616,248,368,Jobcentre Plus,5
+2023-01-01,South West,Plymouth,822,365,457,Social Services,6
+2023-01-01,South West,Exeter,1120,491,629,Jobcentre Plus,7
+2023-01-01,South West,Gloucester,735,297,438,Social Services,5
+2023-01-01,Wales,Cardiff,913,307,606,Citizens Advice,2
+2023-01-01,Wales,Swansea,991,382,609,Social Services,3
+2023-01-01,Wales,Newport,489,203,286,,2
+2023-01-01,Wales,Wrexham,1030,349,681,Jobcentre Plus,2
+2023-01-01,Scotland,Glasgow,676,286,390,Social Services,4
+2023-01-01,Scotland,Edinburgh,1041,446,595,,4
+2023-01-01,Scotland,Aberdeen,1569,561,1008,Jobcentre Plus,2
+2023-01-01,Scotland,Dundee,1484,637,847,Citizens Advice,4
+2023-02-01,North East,Newcastle,1441,630,811,Self Referral,3
+2023-02-01,North East,Sunderland,2114,835,1279,Jobcentre Plus,4
+2023-02-01,North East,Middlesbrough,1016,377,639,Jobcentre Plus,4
+2023-02-01,North East,Durham,1854,748,1106,Jobcentre Plus,2
+2023-02-01,North West,Manchester,957,345,612,Social Services,1
+2023-02-01,North West,Liverpool,1114,381,733,Social Services,3
+2023-02-01,North West,Preston,1976,644,1332,Jobcentre Plus,4
+2023-02-01,North West,Blackpool,793,260,533,Jobcentre Plus,1
+2023-02-01,Yorkshire,Leeds,744,303,441,Self Referral,3
+2023-02-01,Yorkshire,Sheffield,750,307,443,Housing Services,3
+2023-02-01,Yorkshire,Bradford,741,295,446,Housing Services,4
+2023-02-01,Yorkshire,Hull,459,186,273,School/College,2
+2023-02-01,West Midlands,Birmingham,1601,657,944,Housing Services,3
+2023-02-01,West Midlands,Coventry,974,322,652,School/College,3
+2023-02-01,West Midlands,Wolverhampton,855,288,567,Jobcentre Plus,3
+2023-02-01,West Midlands,Stoke,1043,324,719,Jobcentre Plus,3
+2023-02-01,East Midlands,Nottingham,997,304,693,Health Services,3
+2023-02-01,East Midlands,Leicester,1261,409,852,Jobcentre Plus,3
+2023-02-01,East Midlands,Derby,1235,376,859,Jobcentre Plus,6
+2023-02-01,East Midlands,Lincoln,1310,579,731,School/College,6
+2023-02-01,East,Norwich,305,111,194,Jobcentre Plus,6
+2023-02-01,East,Peterborough,390,162,228,Social Services,7
+2023-02-01,East,Ipswich,545,192,353,Jobcentre Plus,7
+2023-02-01,East,Cambridge,974,344,630,Social Services,8
+2023-02-01,London,Tower Hamlets,982,382,600,School/College,5
+2023-02-01,London,Newham,1021,414,607,School/College,5
+2023-02-01,London,Hackney,584,238,346,Health Services,5
+2023-02-01,London,Lambeth,1047,441,606,Citizens Advice,3
+2023-02-01,South East,Brighton,857,266,591,Jobcentre Plus,5
+2023-02-01,South East,Portsmouth,349,126,223,Jobcentre Plus,8
+2023-02-01,South East,Reading,712,317,395,Housing Services,5
+2023-02-01,South East,Southampton,911,302,609,School/College,8
+2023-02-01,South West,Bristol,594,265,329,School/College,4
+2023-02-01,South West,Plymouth,518,155,363,Housing Services,6
+2023-02-01,South West,Exeter,1064,399,665,Social Services,7
+2023-02-01,South West,Gloucester,968,357,611,Citizens Advice,5
+2023-02-01,Wales,Cardiff,1529,536,993,School/College,5
+2023-02-01,Wales,Swansea,1142,402,740,Jobcentre Plus,2
+2023-02-01,Wales,Newport,871,345,526,Health Services,5
+2023-02-01,Wales,Wrexham,869,382,487,Self Referral,3
+2023-02-01,Scotland,Glasgow,1224,532,692,School/College,5
+2023-02-01,Scotland,Edinburgh,1239,542,697,Social Services,3
+2023-02-01,Scotland,Aberdeen,460,159,301,Jobcentre Plus,3
+2023-02-01,Scotland,Dundee,1357,554,803,Citizens Advice,2
+2023-03-01,North East,Newcastle,644,239,405,Jobcentre Plus,1
+2023-03-01,North East,Sunderland,1053,432,621,School/College,2
+2023-03-01,North East,Middlesbrough,1447,459,988,Jobcentre Plus,4
+2023-03-01,North East,Durham,1449,501,948,Health Services,4
+2023-03-01,North West,Manchester,1239,404,835,Social Services,2
+2023-03-01,North West,Liverpool,372,149,223,Self Referral,1
+2023-03-01,North West,Preston,395,125,270,Jobcentre Plus,1
+2023-03-01,North West,Blackpool,673,252,421,School/College,3
+2023-03-01,Yorkshire,Leeds,878,310,568,School/College,5
+2023-03-01,Yorkshire,Sheffield,333,102,231,Jobcentre Plus,2
+2023-03-01,Yorkshire,Bradford,935,370,565,School/College,4
+2023-03-01,Yorkshire,Hull,619,210,409,,3
+2023-03-01,West Midlands,Birmingham,635,259,376,Jobcentre Plus,2
+2023-03-01,West Midlands,Coventry,819,346,473,Self Referral,5
+2023-03-01,West Midlands,Wolverhampton,544,241,303,Health Services,3
+2023-03-01,West Midlands,Stoke,734,238,496,Social Services,4
+2023-03-01,East Midlands,Nottingham,559,169,390,Health Services,6
+2023-03-01,East Midlands,Leicester,668,211,457,School/College,3
+2023-03-01,East Midlands,Derby,912,292,620,Jobcentre Plus,5
+2023-03-01,East Midlands,Lincoln,500,200,300,Social Services,3
+2023-03-01,East,Norwich,264,100,164,Citizens Advice,6
+2023-03-01,East,Peterborough,630,278,352,Health Services,5
+2023-03-01,East,Ipswich,361,109,252,Health Services,8
+2023-03-01,East,Cambridge,732,267,465,Social Services,8
+2023-03-01,London,Tower Hamlets,709,215,494,Jobcentre Plus,6
+2023-03-01,London,Newham,403,133,270,Jobcentre Plus,3
+2023-03-01,London,Hackney,655,278,377,Social Services,3
+2023-03-01,London,Lambeth,625,280,345,Jobcentre Plus,6
+2023-03-01,South East,Brighton,701,272,429,Jobcentre Plus,6
+2023-03-01,South East,Portsmouth,435,151,284,,5
+2023-03-01,South East,Reading,420,155,265,Housing Services,5
+2023-03-01,South East,Southampton,575,229,346,Self Referral,8
+2023-03-01,South West,Bristol,484,191,293,Other Agency,5
+2023-03-01,South West,Plymouth,595,195,400,Jobcentre Plus,7
+2023-03-01,South West,Exeter,254,83,171,Social Services,6
+2023-03-01,South West,Gloucester,489,166,323,Social Services,4
+2023-03-01,Wales,Cardiff,1187,465,722,Jobcentre Plus,3
+2023-03-01,Wales,Swansea,1026,389,637,Social Services,3
+2023-03-01,Wales,Newport,706,223,483,Jobcentre Plus,2
+2023-03-01,Wales,Wrexham,814,311,503,Social Services,2
+2023-03-01,Scotland,Glasgow,1009,324,685,Jobcentre Plus,5
+2023-03-01,Scotland,Edinburgh,537,176,361,Jobcentre Plus,4
+2023-03-01,Scotland,Aberdeen,976,360,616,Health Services,2
+2023-03-01,Scotland,Dundee,1148,409,739,Jobcentre Plus,5
+2023-04-01,North East,Newcastle,1374,471,903,Self Referral,1
+2023-04-01,North East,Sunderland,657,201,456,Health Services,2
+2023-04-01,North East,Middlesbrough,1409,488,921,Jobcentre Plus,3
+2023-04-01,North East,Durham,672,285,387,Jobcentre Plus,1
+2023-04-01,North West,Manchester,517,176,341,Social Services,4
+2023-04-01,North West,Liverpool,940,376,564,Jobcentre Plus,4
+2023-04-01,North West,Preston,866,366,500,Jobcentre Plus,4
+2023-04-01,North West,Blackpool,625,264,361,Social Services,3
+2023-04-01,Yorkshire,Leeds,512,164,348,Self Referral,3
+2023-04-01,Yorkshire,Sheffield,982,315,667,Jobcentre Plus,2
+2023-04-01,Yorkshire,Bradford,884,328,556,Social Services,3
+2023-04-01,Yorkshire,Hull,927,334,593,Jobcentre Plus,5
+2023-04-01,West Midlands,Birmingham,901,383,518,Social Services,2
+2023-04-01,West Midlands,Coventry,347,138,209,Other Agency,5
+2023-04-01,West Midlands,Wolverhampton,533,195,338,Jobcentre Plus,4
+2023-04-01,West Midlands,Stoke,905,397,508,Jobcentre Plus,4
+2023-04-01,East Midlands,Nottingham,693,305,388,Housing Services,4
+2023-04-01,East Midlands,Leicester,720,305,415,Social Services,6
+2023-04-01,East Midlands,Derby,628,238,390,Social Services,6
+2023-04-01,East Midlands,Lincoln,562,171,391,Housing Services,4
+2023-04-01,East,Norwich,410,136,274,Jobcentre Plus,7
+2023-04-01,East,Peterborough,264,118,146,Citizens Advice,5
+2023-04-01,East,Ipswich,298,110,188,School/College,8
+2023-04-01,East,Cambridge,430,190,240,Social Services,8
+2023-04-01,London,Tower Hamlets,367,164,203,Jobcentre Plus,3
+2023-04-01,London,Newham,832,276,556,Social Services,3
+2023-04-01,London,Hackney,902,353,549,Health Services,4
+2023-04-01,London,Lambeth,279,111,168,Health Services,3
+2023-04-01,South East,Brighton,336,134,202,Jobcentre Plus,6
+2023-04-01,South East,Portsmouth,441,153,288,Health Services,7
+2023-04-01,South East,Reading,642,220,422,School/College,7
+2023-04-01,South East,Southampton,540,228,312,Jobcentre Plus,6
+2023-04-01,South West,Bristol,520,205,315,Jobcentre Plus,4
+2023-04-01,South West,Plymouth,284,111,173,Jobcentre Plus,5
+2023-04-01,South West,Exeter,673,207,466,Jobcentre Plus,5
+2023-04-01,South West,Gloucester,655,277,378,Housing Services,7
+2023-04-01,Wales,Cardiff,740,296,444,Health Services,4
+2023-04-01,Wales,Swansea,729,280,449,School/College,3
+2023-04-01,Wales,Newport,997,441,556,Health Services,2
+2023-04-01,Wales,Wrexham,1193,464,729,School/College,5
+2023-04-01,Scotland,Glasgow,828,329,499,Jobcentre Plus,4
+2023-04-01,Scotland,Edinburgh,877,345,532,Social Services,2
+2023-04-01,Scotland,Aberdeen,911,386,525,Housing Services,2
+2023-04-01,Scotland,Dundee,1041,356,685,Housing Services,5
+2023-05-01,North East,Newcastle,1382,422,960,,2
+2023-05-01,North East,Sunderland,986,357,629,Self Referral,1
+2023-05-01,North East,Middlesbrough,1054,423,631,Social Services,2
+2023-05-01,North East,Durham,399,130,269,School/College,3
+2023-05-01,North West,Manchester,364,136,228,School/College,2
+2023-05-01,North West,Liverpool,804,314,490,Social Services,3
+2023-05-01,North West,Preston,896,377,519,Other Agency,3
+2023-05-01,North West,Blackpool,1045,444,601,,2
+2023-05-01,Yorkshire,Leeds,698,271,427,Jobcentre Plus,4
+2023-05-01,Yorkshire,Sheffield,1124,493,631,Social Services,5
+2023-05-01,Yorkshire,Bradford,1080,480,600,Social Services,3
+2023-05-01,Yorkshire,Hull,845,346,499,Health Services,4
+2023-05-01,West Midlands,Birmingham,371,124,247,School/College,4
+2023-05-01,West Midlands,Coventry,562,229,333,Social Services,5
+2023-05-01,West Midlands,Wolverhampton,645,242,403,,2
+2023-05-01,West Midlands,Stoke,353,141,212,Social Services,5
+2023-05-01,East Midlands,Nottingham,407,147,260,Self Referral,3
+2023-05-01,East Midlands,Leicester,1018,414,604,Jobcentre Plus,6
+2023-05-01,East Midlands,Derby,706,228,478,Housing Services,6
+2023-05-01,East Midlands,Lincoln,646,205,441,Jobcentre Plus,6
+2023-05-01,East,Norwich,388,134,254,Health Services,7
+2023-05-01,East,Peterborough,430,167,263,Citizens Advice,6
+2023-05-01,East,Ipswich,211,84,127,Jobcentre Plus,8
+2023-05-01,East,Cambridge,716,267,449,Self Referral,6
+2023-05-01,London,Tower Hamlets,706,261,445,Social Services,6
+2023-05-01,London,Newham,430,187,243,Jobcentre Plus,4
+2023-05-01,London,Hackney,571,223,348,Jobcentre Plus,3
+2023-05-01,London,Lambeth,498,222,276,Jobcentre Plus,4
+2023-05-01,South East,Brighton,293,109,184,Jobcentre Plus,5
+2023-05-01,South East,Portsmouth,716,257,459,Jobcentre Plus,6
+2023-05-01,South East,Reading,775,318,457,Jobcentre Plus,7
+2023-05-01,South East,Southampton,648,219,429,Jobcentre Plus,5
+2023-05-01,South West,Bristol,572,179,393,Housing Services,4
+2023-05-01,South West,Plymouth,280,107,173,Jobcentre Plus,7
+2023-05-01,South West,Exeter,475,200,275,Self Referral,7
+2023-05-01,South West,Gloucester,871,388,483,School/College,7
+2023-05-01,Wales,Cardiff,1209,520,689,Health Services,5
+2023-05-01,Wales,Swansea,1199,420,779,School/College,5
+2023-05-01,Wales,Newport,645,268,377,Jobcentre Plus,4
+2023-05-01,Wales,Wrexham,767,272,495,Jobcentre Plus,2
+2023-05-01,Scotland,Glasgow,778,331,447,Citizens Advice,5
+2023-05-01,Scotland,Edinburgh,711,244,467,Jobcentre Plus,2
+2023-05-01,Scotland,Aberdeen,362,141,221,Jobcentre Plus,4
+2023-05-01,Scotland,Dundee,634,206,428,Self Referral,4
+2023-06-01,North East,Newcastle,962,385,577,Other Agency,2
+2023-06-01,North East,Sunderland,1504,454,1050,Jobcentre Plus,2
+2023-06-01,North East,Middlesbrough,1290,492,798,Jobcentre Plus,4
+2023-06-01,North East,Durham,1416,455,961,Social Services,1
+2023-06-01,North West,Manchester,1166,420,746,School/College,4
+2023-06-01,North West,Liverpool,1109,410,699,Health Services,3
+2023-06-01,North West,Preston,431,189,242,Jobcentre Plus,1
+2023-06-01,North West,Blackpool,1168,426,742,Housing Services,1
+2023-06-01,Yorkshire,Leeds,951,307,644,Social Services,5
+2023-06-01,Yorkshire,Sheffield,984,347,637,Housing Services,5
+2023-06-01,Yorkshire,Bradford,822,361,461,Self Referral,4
+2023-06-01,Yorkshire,Hull,776,306,470,Jobcentre Plus,4
+2023-06-01,West Midlands,Birmingham,390,133,257,Social Services,4
+2023-06-01,West Midlands,Coventry,790,259,531,Jobcentre Plus,5
+2023-06-01,West Midlands,Wolverhampton,800,344,456,School/College,2
+2023-06-01,West Midlands,Stoke,1058,318,740,Other Agency,2
+2023-06-01,East Midlands,Nottingham,762,330,432,Health Services,4
+2023-06-01,East Midlands,Leicester,669,271,398,Self Referral,5
+2023-06-01,East Midlands,Derby,674,296,378,Self Referral,3
+2023-06-01,East Midlands,Lincoln,367,128,239,Other Agency,6
+2023-06-01,East,Norwich,368,114,254,Jobcentre Plus,8
+2023-06-01,East,Peterborough,675,242,433,Jobcentre Plus,7
+2023-06-01,East,Ipswich,597,218,379,Social Services,5
+2023-06-01,East,Cambridge,364,131,233,Jobcentre Plus,6
+2023-06-01,London,Tower Hamlets,930,346,584,,3
+2023-06-01,London,Newham,935,354,581,Housing Services,3
+2023-06-01,London,Hackney,392,141,251,Jobcentre Plus,6
+2023-06-01,London,Lambeth,1043,399,644,School/College,4
+2023-06-01,South East,Brighton,756,266,490,Social Services,7
+2023-06-01,South East,Portsmouth,358,145,213,Social Services,8
+2023-06-01,South East,Reading,663,218,445,Health Services,7
+2023-06-01,South East,Southampton,700,269,431,Jobcentre Plus,7
+2023-06-01,South West,Bristol,437,185,252,School/College,6
+2023-06-01,South West,Plymouth,389,123,266,Jobcentre Plus,6
+2023-06-01,South West,Exeter,849,286,563,Jobcentre Plus,5
+2023-06-01,South West,Gloucester,506,162,344,School/College,7
+2023-06-01,Wales,Cardiff,327,99,228,Social Services,3
+2023-06-01,Wales,Swansea,1144,397,747,School/College,5
+2023-06-01,Wales,Newport,825,292,533,Jobcentre Plus,3
+2023-06-01,Wales,Wrexham,850,347,503,Self Referral,3
+2023-06-01,Scotland,Glasgow,363,117,246,Jobcentre Plus,4
+2023-06-01,Scotland,Edinburgh,736,221,515,Health Services,5
+2023-06-01,Scotland,Aberdeen,1034,446,588,,3
+2023-06-01,Scotland,Dundee,999,356,643,Jobcentre Plus,5
+2023-07-01,North East,Newcastle,729,254,475,Social Services,3
+2023-07-01,North East,Sunderland,847,257,590,Health Services,2
+2023-07-01,North East,Middlesbrough,927,333,594,School/College,3
+2023-07-01,North East,Durham,673,251,422,Self Referral,3
+2023-07-01,North West,Manchester,637,266,371,Citizens Advice,2
+2023-07-01,North West,Liverpool,1230,515,715,Housing Services,4
+2023-07-01,North West,Preston,1343,433,910,Jobcentre Plus,4
+2023-07-01,North West,Blackpool,1066,474,592,Jobcentre Plus,4
+2023-07-01,Yorkshire,Leeds,1222,428,794,Health Services,5
+2023-07-01,Yorkshire,Sheffield,655,230,425,Jobcentre Plus,2
+2023-07-01,Yorkshire,Bradford,432,161,271,Health Services,4
+2023-07-01,Yorkshire,Hull,1236,492,744,Jobcentre Plus,3
+2023-07-01,West Midlands,Birmingham,962,360,602,Housing Services,4
+2023-07-01,West Midlands,Coventry,725,235,490,Housing Services,2
+2023-07-01,West Midlands,Wolverhampton,407,171,236,Other Agency,4
+2023-07-01,West Midlands,Stoke,1040,382,658,Social Services,5
+2023-07-01,East Midlands,Nottingham,566,180,386,Social Services,3
+2023-07-01,East Midlands,Leicester,847,356,491,Jobcentre Plus,6
+2023-07-01,East Midlands,Derby,838,339,499,School/College,6
+2023-07-01,East Midlands,Lincoln,524,211,313,Housing Services,5
+2023-07-01,East,Norwich,915,352,563,School/College,7
+2023-07-01,East,Peterborough,727,315,412,,5
+2023-07-01,East,Ipswich,788,343,445,Social Services,5
+2023-07-01,East,Cambridge,939,410,529,Housing Services,8
+2023-07-01,London,Tower Hamlets,791,321,470,Health Services,6
+2023-07-01,London,Newham,1015,368,647,Jobcentre Plus,3
+2023-07-01,London,Hackney,1389,558,831,Social Services,3
+2023-07-01,London,Lambeth,919,276,643,Jobcentre Plus,5
+2023-07-01,South East,Brighton,898,278,620,Housing Services,7
+2023-07-01,South East,Portsmouth,570,243,327,Jobcentre Plus,6
+2023-07-01,South East,Reading,295,115,180,Jobcentre Plus,5
+2023-07-01,South East,Southampton,890,368,522,Jobcentre Plus,6
+2023-07-01,South West,Bristol,435,144,291,Social Services,4
+2023-07-01,South West,Plymouth,405,165,240,School/College,4
+2023-07-01,South West,Exeter,331,104,227,Health Services,4
+2023-07-01,South West,Gloucester,665,291,374,Health Services,7
+2023-07-01,Wales,Cardiff,1244,539,705,Social Services,4
+2023-07-01,Wales,Swansea,548,169,379,Health Services,3
+2023-07-01,Wales,Newport,1510,545,965,Social Services,3
+2023-07-01,Wales,Wrexham,1429,430,999,Self Referral,5
+2023-07-01,Scotland,Glasgow,517,191,326,Other Agency,3
+2023-07-01,Scotland,Edinburgh,810,250,560,Social Services,3
+2023-07-01,Scotland,Aberdeen,750,314,436,School/College,3
+2023-07-01,Scotland,Dundee,649,256,393,Jobcentre Plus,3
+2023-08-01,North East,Newcastle,1018,441,577,Jobcentre Plus,1
+2023-08-01,North East,Sunderland,1408,491,917,Jobcentre Plus,4
+2023-08-01,North East,Middlesbrough,1613,550,1063,Jobcentre Plus,2
+2023-08-01,North East,Durham,703,267,436,School/College,2
+2023-08-01,North West,Manchester,542,167,375,Jobcentre Plus,2
+2023-08-01,North West,Liverpool,871,298,573,Self Referral,4
+2023-08-01,North West,Preston,516,201,315,Jobcentre Plus,3
+2023-08-01,North West,Blackpool,1362,422,940,Housing Services,1
+2023-08-01,Yorkshire,Leeds,447,197,250,Jobcentre Plus,2
+2023-08-01,Yorkshire,Sheffield,553,218,335,Jobcentre Plus,3
+2023-08-01,Yorkshire,Bradford,1196,508,688,Jobcentre Plus,4
+2023-08-01,Yorkshire,Hull,1388,529,859,Self Referral,2
+2023-08-01,West Midlands,Birmingham,1307,494,813,Jobcentre Plus,5
+2023-08-01,West Midlands,Coventry,673,265,408,School/College,4
+2023-08-01,West Midlands,Wolverhampton,445,175,270,Jobcentre Plus,2
+2023-08-01,West Midlands,Stoke,945,346,599,Jobcentre Plus,5
+2023-08-01,East Midlands,Nottingham,965,322,643,Jobcentre Plus,5
+2023-08-01,East Midlands,Leicester,648,290,358,Housing Services,4
+2023-08-01,East Midlands,Derby,666,234,432,Health Services,3
+2023-08-01,East Midlands,Lincoln,604,218,386,Social Services,3
+2023-08-01,East,Norwich,765,272,493,Social Services,7
+2023-08-01,East,Peterborough,360,157,203,Jobcentre Plus,5
+2023-08-01,East,Ipswich,406,177,229,Self Referral,6
+2023-08-01,East,Cambridge,824,308,516,Social Services,6
+2023-08-01,London,Tower Hamlets,873,324,549,Jobcentre Plus,6
+2023-08-01,London,Newham,866,318,548,Health Services,5
+2023-08-01,London,Hackney,1397,530,867,Citizens Advice,6
+2023-08-01,London,Lambeth,411,182,229,Jobcentre Plus,3
+2023-08-01,South East,Brighton,494,189,305,Health Services,5
+2023-08-01,South East,Portsmouth,452,154,298,Jobcentre Plus,8
+2023-08-01,South East,Reading,644,198,446,Jobcentre Plus,8
+2023-08-01,South East,Southampton,956,403,553,Social Services,5
+2023-08-01,South West,Bristol,502,217,285,Jobcentre Plus,4
+2023-08-01,South West,Plymouth,976,382,594,Jobcentre Plus,6
+2023-08-01,South West,Exeter,730,234,496,Jobcentre Plus,5
+2023-08-01,South West,Gloucester,979,363,616,Jobcentre Plus,7
+2023-08-01,Wales,Cardiff,726,312,414,Housing Services,2
+2023-08-01,Wales,Swansea,977,426,551,Housing Services,4
+2023-08-01,Wales,Newport,1100,331,769,Jobcentre Plus,4
+2023-08-01,Wales,Wrexham,1365,562,803,Other Agency,2
+2023-08-01,Scotland,Glasgow,753,274,479,Jobcentre Plus,2
+2023-08-01,Scotland,Edinburgh,892,374,518,Jobcentre Plus,5
+2023-08-01,Scotland,Aberdeen,1379,475,904,Health Services,4
+2023-08-01,Scotland,Dundee,1245,527,718,Citizens Advice,3
+2023-09-01,North East,Newcastle,469,157,312,Self Referral,1
+2023-09-01,North East,Sunderland,1316,433,883,School/College,3
+2023-09-01,North East,Middlesbrough,453,161,292,Self Referral,2
+2023-09-01,North East,Durham,656,244,412,Social Services,3
+2023-09-01,North West,Manchester,1138,361,777,School/College,2
+2023-09-01,North West,Liverpool,467,156,311,Jobcentre Plus,2
+2023-09-01,North West,Preston,453,145,308,Social Services,4
+2023-09-01,North West,Blackpool,432,156,276,Jobcentre Plus,2
+2023-09-01,Yorkshire,Leeds,1039,455,584,Social Services,2
+2023-09-01,Yorkshire,Sheffield,870,342,528,School/College,4
+2023-09-01,Yorkshire,Bradford,691,292,399,School/College,4
+2023-09-01,Yorkshire,Hull,792,298,494,Housing Services,2
+2023-09-01,West Midlands,Birmingham,700,266,434,Citizens Advice,4
+2023-09-01,West Midlands,Coventry,837,268,569,Jobcentre Plus,3
+2023-09-01,West Midlands,Wolverhampton,529,198,331,Health Services,2
+2023-09-01,West Midlands,Stoke,614,184,430,Jobcentre Plus,4
+2023-09-01,East Midlands,Nottingham,302,134,168,Self Referral,4
+2023-09-01,East Midlands,Leicester,959,335,624,Jobcentre Plus,5
+2023-09-01,East Midlands,Derby,504,212,292,,3
+2023-09-01,East Midlands,Lincoln,816,336,480,Jobcentre Plus,3
+2023-09-01,East,Norwich,602,224,378,Jobcentre Plus,8
+2023-09-01,East,Peterborough,755,308,447,Social Services,6
+2023-09-01,East,Ipswich,621,243,378,Jobcentre Plus,7
+2023-09-01,East,Cambridge,499,172,327,Jobcentre Plus,5
+2023-09-01,London,Tower Hamlets,970,364,606,School/College,3
+2023-09-01,London,Newham,677,206,471,Self Referral,4
+2023-09-01,London,Hackney,540,167,373,Jobcentre Plus,3
+2023-09-01,London,Lambeth,635,281,354,Jobcentre Plus,5
+2023-09-01,South East,Brighton,562,193,369,Social Services,6
+2023-09-01,South East,Portsmouth,225,99,126,School/College,7
+2023-09-01,South East,Reading,268,120,148,Citizens Advice,5
+2023-09-01,South East,Southampton,345,106,239,Social Services,8
+2023-09-01,South West,Bristol,337,126,211,Citizens Advice,5
+2023-09-01,South West,Plymouth,882,283,599,Social Services,4
+2023-09-01,South West,Exeter,366,146,220,Jobcentre Plus,5
+2023-09-01,South West,Gloucester,367,139,228,Jobcentre Plus,6
+2023-09-01,Wales,Cardiff,1067,455,612,Housing Services,4
+2023-09-01,Wales,Swansea,544,170,374,Housing Services,2
+2023-09-01,Wales,Newport,313,117,196,Citizens Advice,3
+2023-09-01,Wales,Wrexham,1004,410,594,Social Services,5
+2023-09-01,Scotland,Glasgow,890,348,542,,4
+2023-09-01,Scotland,Edinburgh,558,192,366,,4
+2023-09-01,Scotland,Aberdeen,913,331,582,Jobcentre Plus,3
+2023-09-01,Scotland,Dundee,841,281,560,Citizens Advice,5
+2023-10-01,North East,Newcastle,1322,482,840,Jobcentre Plus,4
+2023-10-01,North East,Sunderland,820,281,539,Jobcentre Plus,4
+2023-10-01,North East,Middlesbrough,1178,357,821,Housing Services,2
+2023-10-01,North East,Durham,944,370,574,Social Services,4
+2023-10-01,North West,Manchester,1090,418,672,Health Services,4
+2023-10-01,North West,Liverpool,836,342,494,School/College,1
+2023-10-01,North West,Preston,561,227,334,Social Services,3
+2023-10-01,North West,Blackpool,841,281,560,Jobcentre Plus,3
+2023-10-01,Yorkshire,Leeds,539,178,361,Jobcentre Plus,2
+2023-10-01,Yorkshire,Sheffield,963,402,561,Self Referral,5
+2023-10-01,Yorkshire,Bradford,1008,447,561,Jobcentre Plus,4
+2023-10-01,Yorkshire,Hull,861,377,484,Social Services,5
+2023-10-01,West Midlands,Birmingham,924,403,521,Jobcentre Plus,2
+2023-10-01,West Midlands,Coventry,1141,443,698,Health Services,2
+2023-10-01,West Midlands,Wolverhampton,502,174,328,Jobcentre Plus,3
+2023-10-01,West Midlands,Stoke,1057,414,643,Jobcentre Plus,3
+2023-10-01,East Midlands,Nottingham,437,185,252,Jobcentre Plus,4
+2023-10-01,East Midlands,Leicester,815,275,540,School/College,6
+2023-10-01,East Midlands,Derby,850,334,516,Jobcentre Plus,3
+2023-10-01,East Midlands,Lincoln,773,245,528,Jobcentre Plus,4
+2023-10-01,East,Norwich,806,254,552,Social Services,7
+2023-10-01,East,Peterborough,438,155,283,Jobcentre Plus,6
+2023-10-01,East,Ipswich,536,203,333,Jobcentre Plus,6
+2023-10-01,East,Cambridge,554,175,379,Jobcentre Plus,5
+2023-10-01,London,Tower Hamlets,734,302,432,Jobcentre Plus,4
+2023-10-01,London,Newham,629,252,377,Social Services,5
+2023-10-01,London,Hackney,826,250,576,Jobcentre Plus,4
+2023-10-01,London,Lambeth,370,127,243,Housing Services,6
+2023-10-01,South East,Brighton,650,266,384,Citizens Advice,6
+2023-10-01,South East,Portsmouth,626,194,432,Jobcentre Plus,7
+2023-10-01,South East,Reading,407,155,252,Social Services,8
+2023-10-01,South East,Southampton,275,95,180,Self Referral,7
+2023-10-01,South West,Bristol,591,240,351,Jobcentre Plus,4
+2023-10-01,South West,Plymouth,511,197,314,Social Services,4
+2023-10-01,South West,Exeter,317,97,220,Social Services,4
+2023-10-01,South West,Gloucester,284,107,177,Self Referral,7
+2023-10-01,Wales,Cardiff,694,219,475,Other Agency,3
+2023-10-01,Wales,Swansea,1013,306,707,,5
+2023-10-01,Wales,Newport,1313,439,874,Jobcentre Plus,2
+2023-10-01,Wales,Wrexham,771,238,533,Jobcentre Plus,3
+2023-10-01,Scotland,Glasgow,367,153,214,Social Services,5
+2023-10-01,Scotland,Edinburgh,316,137,179,Social Services,5
+2023-10-01,Scotland,Aberdeen,741,222,519,Jobcentre Plus,4
+2023-10-01,Scotland,Dundee,821,351,470,School/College,3
+2023-11-01,North East,Newcastle,911,307,604,Jobcentre Plus,3
+2023-11-01,North East,Sunderland,918,287,631,,4
+2023-11-01,North East,Middlesbrough,1215,395,820,,2
+2023-11-01,North East,Durham,821,324,497,Social Services,3
+2023-11-01,North West,Manchester,460,141,319,Jobcentre Plus,2
+2023-11-01,North West,Liverpool,499,206,293,Health Services,2
+2023-11-01,North West,Preston,531,237,294,Social Services,2
+2023-11-01,North West,Blackpool,1415,493,922,Citizens Advice,4
+2023-11-01,Yorkshire,Leeds,814,345,469,Jobcentre Plus,3
+2023-11-01,Yorkshire,Sheffield,465,202,263,Jobcentre Plus,3
+2023-11-01,Yorkshire,Bradford,1210,534,676,Citizens Advice,5
+2023-11-01,Yorkshire,Hull,1138,357,781,Self Referral,4
+2023-11-01,West Midlands,Birmingham,1135,417,718,Jobcentre Plus,5
+2023-11-01,West Midlands,Coventry,392,152,240,Jobcentre Plus,5
+2023-11-01,West Midlands,Wolverhampton,757,332,425,Other Agency,4
+2023-11-01,West Midlands,Stoke,891,395,496,Other Agency,4
+2023-11-01,East Midlands,Nottingham,738,282,456,Jobcentre Plus,3
+2023-11-01,East Midlands,Leicester,420,129,291,Jobcentre Plus,4
+2023-11-01,East Midlands,Derby,640,242,398,Jobcentre Plus,4
+2023-11-01,East Midlands,Lincoln,612,219,393,Jobcentre Plus,5
+2023-11-01,East,Norwich,839,360,479,Health Services,6
+2023-11-01,East,Peterborough,548,232,316,Jobcentre Plus,8
+2023-11-01,East,Ipswich,627,195,432,Citizens Advice,5
+2023-11-01,East,Cambridge,253,96,157,Housing Services,6
+2023-11-01,London,Tower Hamlets,879,377,502,Jobcentre Plus,3
+2023-11-01,London,Newham,753,261,492,,4
+2023-11-01,London,Hackney,620,270,350,Health Services,5
+2023-11-01,London,Lambeth,1001,422,579,Jobcentre Plus,6
+2023-11-01,South East,Brighton,670,252,418,Social Services,7
+2023-11-01,South East,Portsmouth,459,158,301,Housing Services,7
+2023-11-01,South East,Reading,712,261,451,Jobcentre Plus,6
+2023-11-01,South East,Southampton,804,268,536,Social Services,8
+2023-11-01,South West,Bristol,467,183,284,Jobcentre Plus,7
+2023-11-01,South West,Plymouth,569,230,339,School/College,6
+2023-11-01,South West,Exeter,371,120,251,School/College,7
+2023-11-01,South West,Gloucester,898,338,560,Health Services,4
+2023-11-01,Wales,Cardiff,522,186,336,Health Services,3
+2023-11-01,Wales,Swansea,686,239,447,,4
+2023-11-01,Wales,Newport,613,204,409,Housing Services,3
+2023-11-01,Wales,Wrexham,454,199,255,Jobcentre Plus,4
+2023-11-01,Scotland,Glasgow,733,222,511,Self Referral,2
+2023-11-01,Scotland,Edinburgh,835,264,571,Social Services,5
+2023-11-01,Scotland,Aberdeen,656,230,426,Social Services,4
+2023-11-01,Scotland,Dundee,667,272,395,Self Referral,2
+2023-12-01,North East,Newcastle,1608,572,1036,School/College,3
+2023-12-01,North East,Sunderland,785,243,542,,4
+2023-12-01,North East,Middlesbrough,1357,409,948,Self Referral,2
+2023-12-01,North East,Durham,1638,612,1026,Jobcentre Plus,4
+2023-12-01,North West,Manchester,871,264,607,Jobcentre Plus,2
+2023-12-01,North West,Liverpool,790,252,538,Jobcentre Plus,2
+2023-12-01,North West,Preston,783,292,491,Health Services,4
+2023-12-01,North West,Blackpool,613,271,342,Citizens Advice,1
+2023-12-01,Yorkshire,Leeds,849,308,541,Health Services,3
+2023-12-01,Yorkshire,Sheffield,756,266,490,Self Referral,5
+2023-12-01,Yorkshire,Bradford,631,277,354,Social Services,2
+2023-12-01,Yorkshire,Hull,950,318,632,Health Services,2
+2023-12-01,West Midlands,Birmingham,1396,596,800,Jobcentre Plus,4
+2023-12-01,West Midlands,Coventry,1818,685,1133,Self Referral,4
+2023-12-01,West Midlands,Wolverhampton,1769,762,1007,Health Services,5
+2023-12-01,West Midlands,Stoke,1768,594,1174,Jobcentre Plus,5
+2023-12-01,East Midlands,Nottingham,1377,463,914,Health Services,3
+2023-12-01,East Midlands,Leicester,956,286,670,Citizens Advice,5
+2023-12-01,East Midlands,Derby,1243,549,694,Jobcentre Plus,5
+2023-12-01,East Midlands,Lincoln,772,259,513,Citizens Advice,5
+2023-12-01,East,Norwich,364,111,253,Self Referral,6
+2023-12-01,East,Peterborough,889,271,618,Jobcentre Plus,7
+2023-12-01,East,Ipswich,565,184,381,Social Services,8
+2023-12-01,East,Cambridge,927,289,638,Social Services,7
+2023-12-01,London,Tower Hamlets,1120,428,692,Health Services,5
+2023-12-01,London,Newham,1165,513,652,Health Services,6
+2023-12-01,London,Hackney,984,301,683,Social Services,6
+2023-12-01,London,Lambeth,799,329,470,Jobcentre Plus,4
+2023-12-01,South East,Brighton,890,342,548,Jobcentre Plus,5
+2023-12-01,South East,Portsmouth,751,322,429,School/College,6
+2023-12-01,South East,Reading,804,304,500,Social Services,6
+2023-12-01,South East,Southampton,647,271,376,Social Services,8
+2023-12-01,South West,Bristol,949,325,624,Jobcentre Plus,4
+2023-12-01,South West,Plymouth,1087,465,622,School/College,6
+2023-12-01,South West,Exeter,642,201,441,Social Services,4
+2023-12-01,South West,Gloucester,1320,425,895,Social Services,5
+2023-12-01,Wales,Cardiff,1791,543,1248,,5
+2023-12-01,Wales,Swansea,1334,416,918,Housing Services,2
+2023-12-01,Wales,Newport,1012,451,561,Social Services,4
+2023-12-01,Wales,Wrexham,638,216,422,Jobcentre Plus,5
+2023-12-01,Scotland,Glasgow,1377,478,899,School/College,4
+2023-12-01,Scotland,Edinburgh,1267,564,703,School/College,2
+2023-12-01,Scotland,Aberdeen,1382,562,820,Jobcentre Plus,3
+2023-12-01,Scotland,Dundee,740,301,439,Health Services,4
+2024-01-01,North East,Newcastle,950,342,608,Citizens Advice,3
+2024-01-01,North East,Sunderland,1629,520,1109,Housing Services,2
+2024-01-01,North East,Middlesbrough,604,241,363,,4
+2024-01-01,North East,Durham,891,281,610,School/College,1
+2024-01-01,North West,Manchester,1955,715,1240,School/College,3
+2024-01-01,North West,Liverpool,1318,423,895,Jobcentre Plus,2
+2024-01-01,North West,Preston,1874,606,1268,Citizens Advice,2
+2024-01-01,North West,Blackpool,765,245,520,Self Referral,4
+2024-01-01,Yorkshire,Leeds,870,389,481,Jobcentre Plus,5
+2024-01-01,Yorkshire,Sheffield,594,226,368,Social Services,5
+2024-01-01,Yorkshire,Bradford,618,203,415,Citizens Advice,4
+2024-01-01,Yorkshire,Hull,1673,572,1101,Health Services,3
+2024-01-01,West Midlands,Birmingham,1243,530,713,Jobcentre Plus,5
+2024-01-01,West Midlands,Coventry,859,315,544,Self Referral,5
+2024-01-01,West Midlands,Wolverhampton,1787,587,1200,Jobcentre Plus,3
+2024-01-01,West Midlands,Stoke,1747,627,1120,Housing Services,3
+2024-01-01,East Midlands,Nottingham,596,185,411,Citizens Advice,4
+2024-01-01,East Midlands,Leicester,1048,373,675,Housing Services,5
+2024-01-01,East Midlands,Derby,508,187,321,Social Services,4
+2024-01-01,East Midlands,Lincoln,557,187,370,Housing Services,3
+2024-01-01,East,Norwich,495,166,329,Other Agency,8
+2024-01-01,East,Peterborough,1182,437,745,Jobcentre Plus,6
+2024-01-01,East,Ipswich,500,182,318,Health Services,5
+2024-01-01,East,Cambridge,678,216,462,Jobcentre Plus,5
+2024-01-01,London,Tower Hamlets,765,252,513,School/College,5
+2024-01-01,London,Newham,1187,448,739,Jobcentre Plus,4
+2024-01-01,London,Hackney,745,311,434,Self Referral,6
+2024-01-01,London,Lambeth,1687,577,1110,Jobcentre Plus,5
+2024-01-01,South East,Brighton,1001,384,617,School/College,7
+2024-01-01,South East,Portsmouth,560,186,374,Jobcentre Plus,8
+2024-01-01,South East,Reading,842,289,553,Jobcentre Plus,5
+2024-01-01,South East,Southampton,774,286,488,Health Services,8
+2024-01-01,South West,Bristol,409,175,234,Jobcentre Plus,4
+2024-01-01,South West,Plymouth,546,231,315,Citizens Advice,4
+2024-01-01,South West,Exeter,1044,425,619,School/College,5
+2024-01-01,South West,Gloucester,1171,511,660,Jobcentre Plus,7
+2024-01-01,Wales,Cardiff,1161,349,812,Jobcentre Plus,4
+2024-01-01,Wales,Swansea,618,258,360,Jobcentre Plus,3
+2024-01-01,Wales,Newport,1073,425,648,School/College,5
+2024-01-01,Wales,Wrexham,506,208,298,Social Services,5
+2024-01-01,Scotland,Glasgow,1474,635,839,Jobcentre Plus,2
+2024-01-01,Scotland,Edinburgh,851,382,469,Social Services,3
+2024-01-01,Scotland,Aberdeen,893,308,585,School/College,4
+2024-01-01,Scotland,Dundee,1519,585,934,School/College,2
+2024-02-01,North East,Newcastle,1510,593,917,Housing Services,2
+2024-02-01,North East,Sunderland,937,364,573,Citizens Advice,1
+2024-02-01,North East,Middlesbrough,977,426,551,Jobcentre Plus,2
+2024-02-01,North East,Durham,2162,917,1245,Jobcentre Plus,4
+2024-02-01,North West,Manchester,1457,582,875,Social Services,4
+2024-02-01,North West,Liverpool,1398,462,936,Jobcentre Plus,4
+2024-02-01,North West,Preston,885,359,526,Housing Services,2
+2024-02-01,North West,Blackpool,1771,677,1094,Jobcentre Plus,1
+2024-02-01,Yorkshire,Leeds,1235,382,853,Jobcentre Plus,4
+2024-02-01,Yorkshire,Sheffield,440,151,289,Health Services,2
+2024-02-01,Yorkshire,Bradford,1405,564,841,Health Services,2
+2024-02-01,Yorkshire,Hull,853,315,538,Jobcentre Plus,3
+2024-02-01,West Midlands,Birmingham,1088,434,654,School/College,5
+2024-02-01,West Midlands,Coventry,655,265,390,Housing Services,2
+2024-02-01,West Midlands,Wolverhampton,2025,824,1201,Citizens Advice,5
+2024-02-01,West Midlands,Stoke,1290,410,880,Jobcentre Plus,3
+2024-02-01,East Midlands,Nottingham,1329,560,769,Jobcentre Plus,6
+2024-02-01,East Midlands,Leicester,1283,425,858,Housing Services,3
+2024-02-01,East Midlands,Derby,904,404,500,Health Services,4
+2024-02-01,East Midlands,Lincoln,1076,380,696,Social Services,4
+2024-02-01,East,Norwich,924,412,512,Jobcentre Plus,6
+2024-02-01,East,Peterborough,1190,383,807,,7
+2024-02-01,East,Ipswich,1029,333,696,Social Services,6
+2024-02-01,East,Cambridge,515,200,315,Jobcentre Plus,7
+2024-02-01,London,Tower Hamlets,1007,401,606,Social Services,4
+2024-02-01,London,Newham,1194,499,695,Social Services,5
+2024-02-01,London,Hackney,1039,436,603,Jobcentre Plus,3
+2024-02-01,London,Lambeth,661,244,417,Self Referral,3
+2024-02-01,South East,Brighton,583,222,361,Social Services,8
+2024-02-01,South East,Portsmouth,559,186,373,Jobcentre Plus,7
+2024-02-01,South East,Reading,575,250,325,Social Services,6
+2024-02-01,South East,Southampton,569,235,334,Housing Services,6
+2024-02-01,South West,Bristol,1011,319,692,Social Services,6
+2024-02-01,South West,Plymouth,1092,457,635,Jobcentre Plus,6
+2024-02-01,South West,Exeter,1166,394,772,Social Services,6
+2024-02-01,South West,Gloucester,851,294,557,Housing Services,7
+2024-02-01,Wales,Cardiff,685,268,417,Social Services,4
+2024-02-01,Wales,Swansea,1647,511,1136,School/College,3
+2024-02-01,Wales,Newport,1391,420,971,Social Services,4
+2024-02-01,Wales,Wrexham,773,299,474,Health Services,2
+2024-02-01,Scotland,Glasgow,904,402,502,Jobcentre Plus,2
+2024-02-01,Scotland,Edinburgh,923,332,591,Jobcentre Plus,2
+2024-02-01,Scotland,Aberdeen,771,303,468,Jobcentre Plus,5
+2024-02-01,Scotland,Dundee,915,402,513,Health Services,3
+2024-03-01,North East,Newcastle,661,249,412,School/College,1
+2024-03-01,North East,Sunderland,1067,463,604,Jobcentre Plus,3
+2024-03-01,North East,Middlesbrough,780,304,476,Jobcentre Plus,3
+2024-03-01,North East,Durham,1394,430,964,Health Services,1
+2024-03-01,North West,Manchester,386,122,264,Health Services,2
+2024-03-01,North West,Liverpool,1014,435,579,Health Services,4
+2024-03-01,North West,Preston,1271,462,809,Jobcentre Plus,4
+2024-03-01,North West,Blackpool,597,260,337,Health Services,1
+2024-03-01,Yorkshire,Leeds,564,186,378,Health Services,5
+2024-03-01,Yorkshire,Sheffield,601,195,406,Social Services,2
+2024-03-01,Yorkshire,Bradford,375,118,257,Social Services,2
+2024-03-01,Yorkshire,Hull,670,269,401,Self Referral,2
+2024-03-01,West Midlands,Birmingham,757,323,434,School/College,4
+2024-03-01,West Midlands,Coventry,1025,314,711,Social Services,2
+2024-03-01,West Midlands,Wolverhampton,540,238,302,Jobcentre Plus,5
+2024-03-01,West Midlands,Stoke,391,164,227,School/College,4
+2024-03-01,East Midlands,Nottingham,330,144,186,Social Services,5
+2024-03-01,East Midlands,Leicester,578,209,369,Jobcentre Plus,4
+2024-03-01,East Midlands,Derby,388,161,227,Social Services,6
+2024-03-01,East Midlands,Lincoln,389,127,262,Health Services,3
+2024-03-01,East,Norwich,491,205,286,Social Services,8
+2024-03-01,East,Peterborough,502,163,339,Social Services,7
+2024-03-01,East,Ipswich,410,152,258,School/College,7
+2024-03-01,East,Cambridge,434,191,243,Social Services,7
+2024-03-01,London,Tower Hamlets,942,288,654,School/College,5
+2024-03-01,London,Newham,1111,386,725,Health Services,5
+2024-03-01,London,Hackney,535,234,301,School/College,6
+2024-03-01,London,Lambeth,328,108,220,Health Services,3
+2024-03-01,South East,Brighton,838,344,494,Jobcentre Plus,6
+2024-03-01,South East,Portsmouth,484,171,313,Jobcentre Plus,7
+2024-03-01,South East,Reading,792,272,520,Jobcentre Plus,8
+2024-03-01,South East,Southampton,492,153,339,Jobcentre Plus,6
+2024-03-01,South West,Bristol,658,216,442,Social Services,6
+2024-03-01,South West,Plymouth,908,278,630,Social Services,4
+2024-03-01,South West,Exeter,756,294,462,Social Services,7
+2024-03-01,South West,Gloucester,572,219,353,,7
+2024-03-01,Wales,Cardiff,1096,449,647,Self Referral,4
+2024-03-01,Wales,Swansea,710,295,415,Housing Services,3
+2024-03-01,Wales,Newport,1199,516,683,Jobcentre Plus,5
+2024-03-01,Wales,Wrexham,864,285,579,Jobcentre Plus,2
+2024-03-01,Scotland,Glasgow,841,327,514,Housing Services,4
+2024-03-01,Scotland,Edinburgh,1079,458,621,Jobcentre Plus,5
+2024-03-01,Scotland,Aberdeen,1013,361,652,Housing Services,4
+2024-03-01,Scotland,Dundee,386,128,258,School/College,2
+2024-04-01,North East,Newcastle,1551,682,869,Self Referral,1
+2024-04-01,North East,Sunderland,1227,527,700,Jobcentre Plus,4
+2024-04-01,North East,Middlesbrough,1108,349,759,Social Services,2
+2024-04-01,North East,Durham,575,248,327,Other Agency,1
+2024-04-01,North West,Manchester,1326,526,800,Jobcentre Plus,3
+2024-04-01,North West,Liverpool,601,261,340,Jobcentre Plus,4
+2024-04-01,North West,Preston,1194,392,802,Health Services,2
+2024-04-01,North West,Blackpool,916,403,513,Social Services,4
+2024-04-01,Yorkshire,Leeds,749,291,458,Jobcentre Plus,2
+2024-04-01,Yorkshire,Sheffield,1375,509,866,Jobcentre Plus,5
+2024-04-01,Yorkshire,Bradford,1055,386,669,Jobcentre Plus,3
+2024-04-01,Yorkshire,Hull,947,323,624,Jobcentre Plus,2
+2024-04-01,West Midlands,Birmingham,1518,626,892,School/College,3
+2024-04-01,West Midlands,Coventry,952,346,606,Citizens Advice,2
+2024-04-01,West Midlands,Wolverhampton,820,358,462,Housing Services,4
+2024-04-01,West Midlands,Stoke,1126,469,657,Self Referral,4
+2024-04-01,East Midlands,Nottingham,1030,316,714,,3
+2024-04-01,East Midlands,Leicester,676,242,434,Social Services,3
+2024-04-01,East Midlands,Derby,751,321,430,,3
+2024-04-01,East Midlands,Lincoln,1029,340,689,Social Services,3
+2024-04-01,East,Norwich,921,348,573,School/College,6
+2024-04-01,East,Peterborough,252,108,144,School/College,6
+2024-04-01,East,Ipswich,399,126,273,Jobcentre Plus,6
+2024-04-01,East,Cambridge,417,170,247,Jobcentre Plus,5
+2024-04-01,London,Tower Hamlets,819,362,457,Self Referral,4
+2024-04-01,London,Newham,677,283,394,Health Services,6
+2024-04-01,London,Hackney,765,338,427,Other Agency,6
+2024-04-01,London,Lambeth,324,111,213,Other Agency,3
+2024-04-01,South East,Brighton,603,252,351,Jobcentre Plus,6
+2024-04-01,South East,Portsmouth,241,90,151,Jobcentre Plus,8
+2024-04-01,South East,Reading,856,382,474,Citizens Advice,6
+2024-04-01,South East,Southampton,791,325,466,School/College,5
+2024-04-01,South West,Bristol,250,100,150,Social Services,4
+2024-04-01,South West,Plymouth,914,313,601,Self Referral,4
+2024-04-01,South West,Exeter,272,113,159,School/College,7
+2024-04-01,South West,Gloucester,723,255,468,Housing Services,7
+2024-04-01,Wales,Cardiff,954,329,625,School/College,3
+2024-04-01,Wales,Swansea,1378,612,766,School/College,3
+2024-04-01,Wales,Newport,723,318,405,Jobcentre Plus,4
+2024-04-01,Wales,Wrexham,587,239,348,Health Services,3
+2024-04-01,Scotland,Glasgow,729,304,425,Housing Services,2
+2024-04-01,Scotland,Edinburgh,1016,430,586,Jobcentre Plus,5
+2024-04-01,Scotland,Aberdeen,998,352,646,Jobcentre Plus,5
+2024-04-01,Scotland,Dundee,724,288,436,School/College,5
+2024-05-01,North East,Newcastle,1291,503,788,Social Services,2
+2024-05-01,North East,Sunderland,671,244,427,Jobcentre Plus,1
+2024-05-01,North East,Middlesbrough,499,153,346,Jobcentre Plus,1
+2024-05-01,North East,Durham,953,310,643,School/College,3
+2024-05-01,North West,Manchester,568,252,316,Social Services,1
+2024-05-01,North West,Liverpool,796,357,439,Jobcentre Plus,3
+2024-05-01,North West,Preston,412,142,270,Social Services,1
+2024-05-01,North West,Blackpool,1258,525,733,School/College,4
+2024-05-01,Yorkshire,Leeds,430,167,263,,2
+2024-05-01,Yorkshire,Sheffield,842,272,570,Social Services,4
+2024-05-01,Yorkshire,Bradford,1130,439,691,Social Services,4
+2024-05-01,Yorkshire,Hull,618,243,375,Jobcentre Plus,2
+2024-05-01,West Midlands,Birmingham,1017,447,570,Social Services,5
+2024-05-01,West Midlands,Coventry,1040,336,704,School/College,2
+2024-05-01,West Midlands,Wolverhampton,342,148,194,Social Services,2
+2024-05-01,West Midlands,Stoke,983,417,566,School/College,4
+2024-05-01,East Midlands,Nottingham,564,201,363,Housing Services,4
+2024-05-01,East Midlands,Leicester,418,145,273,Jobcentre Plus,5
+2024-05-01,East Midlands,Derby,594,233,361,School/College,3
+2024-05-01,East Midlands,Lincoln,796,284,512,Jobcentre Plus,6
+2024-05-01,East,Norwich,818,303,515,Jobcentre Plus,6
+2024-05-01,East,Peterborough,889,279,610,Jobcentre Plus,7
+2024-05-01,East,Ipswich,340,126,214,Other Agency,8
+2024-05-01,East,Cambridge,919,318,601,Jobcentre Plus,7
+2024-05-01,London,Tower Hamlets,930,351,579,Jobcentre Plus,4
+2024-05-01,London,Newham,941,316,625,Citizens Advice,3
+2024-05-01,London,Hackney,1171,427,744,Social Services,4
+2024-05-01,London,Lambeth,942,374,568,School/College,5
+2024-05-01,South East,Brighton,791,326,465,Jobcentre Plus,6
+2024-05-01,South East,Portsmouth,453,199,254,,6
+2024-05-01,South East,Reading,864,349,515,Jobcentre Plus,5
+2024-05-01,South East,Southampton,441,181,260,Other Agency,8
+2024-05-01,South West,Bristol,355,127,228,Health Services,4
+2024-05-01,South West,Plymouth,808,293,515,Social Services,7
+2024-05-01,South West,Exeter,335,115,220,School/College,6
+2024-05-01,South West,Gloucester,787,342,445,School/College,5
+2024-05-01,Wales,Cardiff,1051,377,674,Citizens Advice,4
+2024-05-01,Wales,Swansea,895,323,572,Housing Services,2
+2024-05-01,Wales,Newport,1137,391,746,Self Referral,5
+2024-05-01,Wales,Wrexham,958,327,631,Social Services,2
+2024-05-01,Scotland,Glasgow,657,288,369,Social Services,5
+2024-05-01,Scotland,Edinburgh,867,316,551,Social Services,4
+2024-05-01,Scotland,Aberdeen,938,340,598,Social Services,3
+2024-05-01,Scotland,Dundee,714,233,481,Jobcentre Plus,5
+2024-06-01,North East,Newcastle,834,323,511,Jobcentre Plus,2
+2024-06-01,North East,Sunderland,632,190,442,Jobcentre Plus,4
+2024-06-01,North East,Middlesbrough,436,144,292,Jobcentre Plus,1
+2024-06-01,North East,Durham,500,165,335,Health Services,1
+2024-06-01,North West,Manchester,780,251,529,Jobcentre Plus,1
+2024-06-01,North West,Liverpool,605,201,404,School/College,3
+2024-06-01,North West,Preston,758,279,479,Jobcentre Plus,2
+2024-06-01,North West,Blackpool,1538,686,852,Jobcentre Plus,2
+2024-06-01,Yorkshire,Leeds,1157,367,790,Social Services,2
+2024-06-01,Yorkshire,Sheffield,675,244,431,Social Services,4
+2024-06-01,Yorkshire,Bradford,1169,433,736,Jobcentre Plus,5
+2024-06-01,Yorkshire,Hull,1024,348,676,Self Referral,2
+2024-06-01,West Midlands,Birmingham,916,276,640,Citizens Advice,5
+2024-06-01,West Midlands,Coventry,875,308,567,Citizens Advice,4
+2024-06-01,West Midlands,Wolverhampton,1482,510,972,Self Referral,5
+2024-06-01,West Midlands,Stoke,400,143,257,Jobcentre Plus,4
+2024-06-01,East Midlands,Nottingham,825,350,475,Citizens Advice,3
+2024-06-01,East Midlands,Leicester,711,213,498,Citizens Advice,5
+2024-06-01,East Midlands,Derby,772,321,451,School/College,4
+2024-06-01,East Midlands,Lincoln,720,307,413,School/College,4
+2024-06-01,East,Norwich,691,210,481,Jobcentre Plus,8
+2024-06-01,East,Peterborough,307,113,194,Citizens Advice,6
+2024-06-01,East,Ipswich,329,135,194,Jobcentre Plus,5
+2024-06-01,East,Cambridge,921,390,531,Jobcentre Plus,8
+2024-06-01,London,Tower Hamlets,1234,540,694,Social Services,4
+2024-06-01,London,Newham,342,117,225,School/College,6
+2024-06-01,London,Hackney,929,414,515,Social Services,5
+2024-06-01,London,Lambeth,642,268,374,School/College,3
+2024-06-01,South East,Brighton,506,226,280,Social Services,5
+2024-06-01,South East,Portsmouth,804,360,444,Jobcentre Plus,7
+2024-06-01,South East,Reading,466,142,324,Health Services,8
+2024-06-01,South East,Southampton,553,197,356,Jobcentre Plus,5
+2024-06-01,South West,Bristol,617,236,381,School/College,5
+2024-06-01,South West,Plymouth,497,220,277,Jobcentre Plus,4
+2024-06-01,South West,Exeter,366,146,220,School/College,4
+2024-06-01,South West,Gloucester,615,268,347,Jobcentre Plus,6
+2024-06-01,Wales,Cardiff,924,404,520,Jobcentre Plus,2
+2024-06-01,Wales,Swansea,983,359,624,Jobcentre Plus,3
+2024-06-01,Wales,Newport,537,208,329,Jobcentre Plus,2
+2024-06-01,Wales,Wrexham,1078,325,753,Jobcentre Plus,2
+2024-06-01,Scotland,Glasgow,506,174,332,Jobcentre Plus,2
+2024-06-01,Scotland,Edinburgh,375,118,257,Jobcentre Plus,5
+2024-06-01,Scotland,Aberdeen,469,159,310,Jobcentre Plus,2
+2024-06-01,Scotland,Dundee,1161,361,800,School/College,3
+2024-07-01,North East,Newcastle,1678,746,932,School/College,2
+2024-07-01,North East,Sunderland,802,283,519,Jobcentre Plus,1
+2024-07-01,North East,Middlesbrough,1387,596,791,,2
+2024-07-01,North East,Durham,1975,766,1209,Jobcentre Plus,3
+2024-07-01,North West,Manchester,598,230,368,Housing Services,3
+2024-07-01,North West,Liverpool,816,254,562,School/College,4
+2024-07-01,North West,Preston,1561,656,905,School/College,4
+2024-07-01,North West,Blackpool,1147,438,709,Health Services,1
+2024-07-01,Yorkshire,Leeds,473,192,281,Jobcentre Plus,5
+2024-07-01,Yorkshire,Sheffield,852,360,492,Jobcentre Plus,3
+2024-07-01,Yorkshire,Bradford,644,229,415,Health Services,4
+2024-07-01,Yorkshire,Hull,410,143,267,Jobcentre Plus,5
+2024-07-01,West Midlands,Birmingham,769,282,487,Jobcentre Plus,2
+2024-07-01,West Midlands,Coventry,1589,675,914,Jobcentre Plus,3
+2024-07-01,West Midlands,Wolverhampton,1283,398,885,Social Services,5
+2024-07-01,West Midlands,Stoke,1250,468,782,Jobcentre Plus,3
+2024-07-01,East Midlands,Nottingham,1000,362,638,Jobcentre Plus,5
+2024-07-01,East Midlands,Leicester,1235,554,681,,6
+2024-07-01,East Midlands,Derby,1084,410,674,Social Services,5
+2024-07-01,East Midlands,Lincoln,432,164,268,Social Services,4
+2024-07-01,East,Norwich,511,178,333,Housing Services,7
+2024-07-01,East,Peterborough,298,111,187,Health Services,6
+2024-07-01,East,Ipswich,697,253,444,Social Services,7
+2024-07-01,East,Cambridge,892,389,503,Social Services,6
+2024-07-01,London,Tower Hamlets,1049,345,704,Social Services,3
+2024-07-01,London,Newham,1380,482,898,Jobcentre Plus,3
+2024-07-01,London,Hackney,611,262,349,Social Services,3
+2024-07-01,London,Lambeth,1196,505,691,Jobcentre Plus,6
+2024-07-01,South East,Brighton,348,112,236,School/College,5
+2024-07-01,South East,Portsmouth,874,391,483,Jobcentre Plus,7
+2024-07-01,South East,Reading,822,260,562,Jobcentre Plus,6
+2024-07-01,South East,Southampton,1024,352,672,Jobcentre Plus,7
+2024-07-01,South West,Bristol,985,313,672,School/College,7
+2024-07-01,South West,Plymouth,851,292,559,Jobcentre Plus,4
+2024-07-01,South West,Exeter,336,131,205,Jobcentre Plus,4
+2024-07-01,South West,Gloucester,281,85,196,Jobcentre Plus,7
+2024-07-01,Wales,Cardiff,866,323,543,Social Services,3
+2024-07-01,Wales,Swansea,1094,447,647,Health Services,4
+2024-07-01,Wales,Newport,1170,516,654,Housing Services,3
+2024-07-01,Wales,Wrexham,1179,504,675,Social Services,2
+2024-07-01,Scotland,Glasgow,1476,524,952,Jobcentre Plus,5
+2024-07-01,Scotland,Edinburgh,488,165,323,Social Services,3
+2024-07-01,Scotland,Aberdeen,994,374,620,Jobcentre Plus,2
+2024-07-01,Scotland,Dundee,645,211,434,Social Services,5
+2024-08-01,North East,Newcastle,1373,440,933,Jobcentre Plus,3
+2024-08-01,North East,Sunderland,1212,439,773,Jobcentre Plus,3
+2024-08-01,North East,Middlesbrough,1872,698,1174,Health Services,1
+2024-08-01,North East,Durham,850,257,593,Jobcentre Plus,3
+2024-08-01,North West,Manchester,1570,629,941,Jobcentre Plus,3
+2024-08-01,North West,Liverpool,1164,356,808,Jobcentre Plus,3
+2024-08-01,North West,Preston,1368,436,932,Jobcentre Plus,1
+2024-08-01,North West,Blackpool,707,283,424,Health Services,4
+2024-08-01,Yorkshire,Leeds,1353,604,749,,2
+2024-08-01,Yorkshire,Sheffield,774,320,454,Jobcentre Plus,3
+2024-08-01,Yorkshire,Bradford,967,429,538,Jobcentre Plus,2
+2024-08-01,Yorkshire,Hull,900,368,532,Jobcentre Plus,2
+2024-08-01,West Midlands,Birmingham,1334,547,787,Social Services,5
+2024-08-01,West Midlands,Coventry,1532,621,911,Jobcentre Plus,4
+2024-08-01,West Midlands,Wolverhampton,1704,523,1181,Jobcentre Plus,4
+2024-08-01,West Midlands,Stoke,503,172,331,Health Services,5
+2024-08-01,East Midlands,Nottingham,989,350,639,Health Services,5
+2024-08-01,East Midlands,Leicester,1047,381,666,School/College,5
+2024-08-01,East Midlands,Derby,809,295,514,Other Agency,4
+2024-08-01,East Midlands,Lincoln,1236,543,693,Jobcentre Plus,6
+2024-08-01,East,Norwich,851,337,514,Jobcentre Plus,8
+2024-08-01,East,Peterborough,471,199,272,Jobcentre Plus,6
+2024-08-01,East,Ipswich,360,149,211,Jobcentre Plus,8
+2024-08-01,East,Cambridge,930,370,560,School/College,6
+2024-08-01,London,Tower Hamlets,433,142,291,Health Services,3
+2024-08-01,London,Newham,792,259,533,Health Services,6
+2024-08-01,London,Hackney,981,369,612,School/College,6
+2024-08-01,London,Lambeth,553,214,339,Self Referral,3
+2024-08-01,South East,Brighton,860,274,586,Social Services,5
+2024-08-01,South East,Portsmouth,600,229,371,Social Services,6
+2024-08-01,South East,Reading,686,306,380,Social Services,5
+2024-08-01,South East,Southampton,302,117,185,Other Agency,7
+2024-08-01,South West,Bristol,953,402,551,Jobcentre Plus,4
+2024-08-01,South West,Plymouth,800,319,481,Social Services,4
+2024-08-01,South West,Exeter,549,193,356,Health Services,6
+2024-08-01,South West,Gloucester,696,297,399,Jobcentre Plus,4
+2024-08-01,Wales,Cardiff,1229,372,857,,4
+2024-08-01,Wales,Swansea,1555,678,877,Health Services,2
+2024-08-01,Wales,Newport,427,152,275,Jobcentre Plus,3
+2024-08-01,Wales,Wrexham,1012,339,673,School/College,4
+2024-08-01,Scotland,Glasgow,656,246,410,Health Services,4
+2024-08-01,Scotland,Edinburgh,401,167,234,Housing Services,3
+2024-08-01,Scotland,Aberdeen,1395,609,786,Other Agency,4
+2024-08-01,Scotland,Dundee,866,355,511,School/College,4
+2024-09-01,North East,Newcastle,676,236,440,Jobcentre Plus,4
+2024-09-01,North East,Sunderland,875,352,523,Jobcentre Plus,3
+2024-09-01,North East,Middlesbrough,1351,578,773,Self Referral,4
+2024-09-01,North East,Durham,425,143,282,Other Agency,4
+2024-09-01,North West,Manchester,387,117,270,Citizens Advice,4
+2024-09-01,North West,Liverpool,417,148,269,Housing Services,1
+2024-09-01,North West,Preston,412,150,262,Jobcentre Plus,4
+2024-09-01,North West,Blackpool,1150,501,649,Health Services,2
+2024-09-01,Yorkshire,Leeds,391,135,256,Citizens Advice,2
+2024-09-01,Yorkshire,Sheffield,497,204,293,School/College,2
+2024-09-01,Yorkshire,Bradford,571,227,344,Jobcentre Plus,4
+2024-09-01,Yorkshire,Hull,411,178,233,Jobcentre Plus,3
+2024-09-01,West Midlands,Birmingham,706,279,427,Self Referral,2
+2024-09-01,West Midlands,Coventry,772,307,465,Housing Services,5
+2024-09-01,West Midlands,Wolverhampton,625,242,383,School/College,3
+2024-09-01,West Midlands,Stoke,840,256,584,,2
+2024-09-01,East Midlands,Nottingham,323,124,199,Self Referral,3
+2024-09-01,East Midlands,Leicester,764,337,427,Health Services,6
+2024-09-01,East Midlands,Derby,393,144,249,Self Referral,4
+2024-09-01,East Midlands,Lincoln,674,241,433,Citizens Advice,4
+2024-09-01,East,Norwich,652,265,387,Citizens Advice,7
+2024-09-01,East,Peterborough,774,345,429,Social Services,8
+2024-09-01,East,Ipswich,575,177,398,Housing Services,8
+2024-09-01,East,Cambridge,974,299,675,Self Referral,7
+2024-09-01,London,Tower Hamlets,957,366,591,Citizens Advice,5
+2024-09-01,London,Newham,996,408,588,School/College,6
+2024-09-01,London,Hackney,649,236,413,,4
+2024-09-01,London,Lambeth,1139,388,751,Self Referral,3
+2024-09-01,South East,Brighton,437,192,245,Social Services,5
+2024-09-01,South East,Portsmouth,398,174,224,School/College,6
+2024-09-01,South East,Reading,418,156,262,School/College,6
+2024-09-01,South East,Southampton,406,134,272,Jobcentre Plus,7
+2024-09-01,South West,Bristol,289,108,181,Jobcentre Plus,6
+2024-09-01,South West,Plymouth,1021,339,682,School/College,5
+2024-09-01,South West,Exeter,809,355,454,Jobcentre Plus,4
+2024-09-01,South West,Gloucester,755,255,500,Social Services,5
+2024-09-01,Wales,Cardiff,1022,406,616,Jobcentre Plus,4
+2024-09-01,Wales,Swansea,545,208,337,School/College,5
+2024-09-01,Wales,Newport,809,260,549,Jobcentre Plus,4
+2024-09-01,Wales,Wrexham,422,150,272,Social Services,3
+2024-09-01,Scotland,Glasgow,1198,468,730,Jobcentre Plus,3
+2024-09-01,Scotland,Edinburgh,1169,522,647,Social Services,2
+2024-09-01,Scotland,Aberdeen,318,112,206,Jobcentre Plus,3
+2024-09-01,Scotland,Dundee,1020,398,622,Jobcentre Plus,5
+2024-10-01,North East,Newcastle,610,265,345,Health Services,4
+2024-10-01,North East,Sunderland,924,297,627,Jobcentre Plus,1
+2024-10-01,North East,Middlesbrough,608,259,349,Citizens Advice,2
+2024-10-01,North East,Durham,601,189,412,Other Agency,3
+2024-10-01,North West,Manchester,1142,511,631,Jobcentre Plus,2
+2024-10-01,North West,Liverpool,1322,448,874,School/College,1
+2024-10-01,North West,Preston,993,359,634,Social Services,2
+2024-10-01,North West,Blackpool,647,290,357,Social Services,4
+2024-10-01,Yorkshire,Leeds,1208,481,727,Jobcentre Plus,2
+2024-10-01,Yorkshire,Sheffield,676,222,454,Social Services,5
+2024-10-01,Yorkshire,Bradford,1051,361,690,Jobcentre Plus,3
+2024-10-01,Yorkshire,Hull,1363,605,758,Social Services,3
+2024-10-01,West Midlands,Birmingham,554,235,319,Health Services,2
+2024-10-01,West Midlands,Coventry,411,174,237,Jobcentre Plus,4
+2024-10-01,West Midlands,Wolverhampton,1428,480,948,Social Services,5
+2024-10-01,West Midlands,Stoke,392,164,228,Jobcentre Plus,5
+2024-10-01,East Midlands,Nottingham,394,152,242,Health Services,4
+2024-10-01,East Midlands,Leicester,416,178,238,School/College,6
+2024-10-01,East Midlands,Derby,825,363,462,,6
+2024-10-01,East Midlands,Lincoln,636,260,376,Self Referral,6
+2024-10-01,East,Norwich,260,80,180,School/College,8
+2024-10-01,East,Peterborough,609,265,344,School/College,6
+2024-10-01,East,Ipswich,324,126,198,Self Referral,6
+2024-10-01,East,Cambridge,915,405,510,Other Agency,8
+2024-10-01,London,Tower Hamlets,661,225,436,,6
+2024-10-01,London,Newham,1060,476,584,Self Referral,4
+2024-10-01,London,Hackney,351,141,210,School/College,6
+2024-10-01,London,Lambeth,698,274,424,Jobcentre Plus,3
+2024-10-01,South East,Brighton,671,270,401,Health Services,6
+2024-10-01,South East,Portsmouth,635,203,432,Other Agency,6
+2024-10-01,South East,Reading,445,146,299,Jobcentre Plus,7
+2024-10-01,South East,Southampton,819,296,523,Social Services,8
+2024-10-01,South West,Bristol,856,362,494,Health Services,7
+2024-10-01,South West,Plymouth,531,168,363,School/College,5
+2024-10-01,South West,Exeter,413,124,289,Jobcentre Plus,7
+2024-10-01,South West,Gloucester,979,375,604,School/College,4
+2024-10-01,Wales,Cardiff,828,347,481,Citizens Advice,5
+2024-10-01,Wales,Swansea,487,181,306,School/College,4
+2024-10-01,Wales,Newport,582,189,393,Housing Services,2
+2024-10-01,Wales,Wrexham,407,165,242,Jobcentre Plus,4
+2024-10-01,Scotland,Glasgow,476,179,297,Jobcentre Plus,3
+2024-10-01,Scotland,Edinburgh,730,222,508,School/College,3
+2024-10-01,Scotland,Aberdeen,1076,333,743,Self Referral,5
+2024-10-01,Scotland,Dundee,1114,483,631,Jobcentre Plus,2
+2024-11-01,North East,Newcastle,1472,459,1013,School/College,4
+2024-11-01,North East,Sunderland,1328,442,886,School/College,4
+2024-11-01,North East,Middlesbrough,1514,547,967,Jobcentre Plus,4
+2024-11-01,North East,Durham,566,241,325,Jobcentre Plus,4
+2024-11-01,North West,Manchester,1208,506,702,Social Services,1
+2024-11-01,North West,Liverpool,1288,548,740,Health Services,2
+2024-11-01,North West,Preston,889,357,532,Housing Services,2
+2024-11-01,North West,Blackpool,480,176,304,School/College,1
+2024-11-01,Yorkshire,Leeds,632,256,376,Jobcentre Plus,5
+2024-11-01,Yorkshire,Sheffield,364,147,217,School/College,5
+2024-11-01,Yorkshire,Bradford,740,286,454,Housing Services,5
+2024-11-01,Yorkshire,Hull,800,298,502,School/College,3
+2024-11-01,West Midlands,Birmingham,453,203,250,Health Services,5
+2024-11-01,West Midlands,Coventry,732,320,412,Housing Services,5
+2024-11-01,West Midlands,Wolverhampton,460,160,300,Jobcentre Plus,4
+2024-11-01,West Midlands,Stoke,1070,383,687,Jobcentre Plus,3
+2024-11-01,East Midlands,Nottingham,982,322,660,Housing Services,6
+2024-11-01,East Midlands,Leicester,495,195,300,Jobcentre Plus,3
+2024-11-01,East Midlands,Derby,734,287,447,Housing Services,4
+2024-11-01,East Midlands,Lincoln,918,330,588,Citizens Advice,6
+2024-11-01,East,Norwich,745,223,522,Jobcentre Plus,5
+2024-11-01,East,Peterborough,827,305,522,Housing Services,5
+2024-11-01,East,Ipswich,935,401,534,Health Services,7
+2024-11-01,East,Cambridge,534,181,353,Citizens Advice,6
+2024-11-01,London,Tower Hamlets,1067,398,669,School/College,4
+2024-11-01,London,Newham,589,239,350,Housing Services,6
+2024-11-01,London,Hackney,493,193,300,Jobcentre Plus,5
+2024-11-01,London,Lambeth,363,157,206,School/College,6
+2024-11-01,South East,Brighton,225,76,149,Self Referral,7
+2024-11-01,South East,Portsmouth,704,295,409,Jobcentre Plus,5
+2024-11-01,South East,Reading,475,192,283,Jobcentre Plus,7
+2024-11-01,South East,Southampton,375,168,207,Social Services,6
+2024-11-01,South West,Bristol,697,242,455,Social Services,7
+2024-11-01,South West,Plymouth,328,129,199,Social Services,7
+2024-11-01,South West,Exeter,310,109,201,School/College,4
+2024-11-01,South West,Gloucester,505,193,312,School/College,7
+2024-11-01,Wales,Cardiff,480,157,323,Self Referral,4
+2024-11-01,Wales,Swansea,563,239,324,Jobcentre Plus,4
+2024-11-01,Wales,Newport,1197,467,730,Housing Services,2
+2024-11-01,Wales,Wrexham,477,149,328,Health Services,4
+2024-11-01,Scotland,Glasgow,759,291,468,Jobcentre Plus,2
+2024-11-01,Scotland,Edinburgh,1320,482,838,Jobcentre Plus,3
+2024-11-01,Scotland,Aberdeen,1020,420,600,Social Services,3
+2024-11-01,Scotland,Dundee,614,205,409,Social Services,3
+2024-12-01,North East,Newcastle,2447,1082,1365,Health Services,2
+2024-12-01,North East,Sunderland,1161,495,666,Jobcentre Plus,3
+2024-12-01,North East,Middlesbrough,742,261,481,Jobcentre Plus,3
+2024-12-01,North East,Durham,1867,782,1085,Health Services,1
+2024-12-01,North West,Manchester,1156,462,694,Health Services,2
+2024-12-01,North West,Liverpool,1973,799,1174,Housing Services,3
+2024-12-01,North West,Preston,1452,472,980,Social Services,3
+2024-12-01,North West,Blackpool,1434,489,945,Health Services,2
+2024-12-01,Yorkshire,Leeds,698,212,486,Social Services,2
+2024-12-01,Yorkshire,Sheffield,1066,350,716,Self Referral,4
+2024-12-01,Yorkshire,Bradford,1506,635,871,Jobcentre Plus,3
+2024-12-01,Yorkshire,Hull,752,331,421,Jobcentre Plus,2
+2024-12-01,West Midlands,Birmingham,678,281,397,Social Services,3
+2024-12-01,West Midlands,Coventry,643,288,355,School/College,3
+2024-12-01,West Midlands,Wolverhampton,1040,408,632,Self Referral,2
+2024-12-01,West Midlands,Stoke,1081,349,732,Housing Services,3
+2024-12-01,East Midlands,Nottingham,698,255,443,Jobcentre Plus,3
+2024-12-01,East Midlands,Leicester,508,171,337,School/College,5
+2024-12-01,East Midlands,Derby,862,264,598,Citizens Advice,6
+2024-12-01,East Midlands,Lincoln,1276,523,753,Jobcentre Plus,5
+2024-12-01,East,Norwich,428,137,291,Social Services,6
+2024-12-01,East,Peterborough,668,290,378,Jobcentre Plus,7
+2024-12-01,East,Ipswich,1241,455,786,School/College,5
+2024-12-01,East,Cambridge,447,178,269,Jobcentre Plus,6
+2024-12-01,London,Tower Hamlets,824,256,568,Jobcentre Plus,4
+2024-12-01,London,Newham,1326,440,886,Jobcentre Plus,3
+2024-12-01,London,Hackney,1147,504,643,Self Referral,5
+2024-12-01,London,Lambeth,1044,426,618,Social Services,3
+2024-12-01,South East,Brighton,956,326,630,Housing Services,6
+2024-12-01,South East,Portsmouth,629,260,369,Jobcentre Plus,7
+2024-12-01,South East,Reading,565,189,376,Jobcentre Plus,7
+2024-12-01,South East,Southampton,1007,451,556,Jobcentre Plus,6
+2024-12-01,South West,Bristol,1179,393,786,School/College,5
+2024-12-01,South West,Plymouth,1252,413,839,School/College,7
+2024-12-01,South West,Exeter,852,283,569,Citizens Advice,7
+2024-12-01,South West,Gloucester,727,325,402,Other Agency,6
+2024-12-01,Wales,Cardiff,513,155,358,Citizens Advice,2
+2024-12-01,Wales,Swansea,634,240,394,Social Services,5
+2024-12-01,Wales,Newport,1338,530,808,Social Services,3
+2024-12-01,Wales,Wrexham,1854,662,1192,Jobcentre Plus,5
+2024-12-01,Scotland,Glasgow,951,349,602,Health Services,2
+2024-12-01,Scotland,Edinburgh,824,343,481,Health Services,2
+2024-12-01,Scotland,Aberdeen,1675,663,1012,,2
+2024-12-01,Scotland,Dundee,1023,339,684,Housing Services,2
