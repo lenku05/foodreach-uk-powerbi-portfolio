@@ -1,3 +1,17 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Key Findings & Impact](#-key-findings--business-impact)
+- [Technical Implementation](#️-technical-implementation)
+- [Dashboard Screenshots](#-dashboard-screenshots)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [How to Use](#-how-to-use-this-repository)
+- [Contact](#-contact--feedback)
+
 # FoodReach UK: Power BI Impact Analytics Dashboard
 <img width="1200" height="680" alt="Executive DashBoard" src="https://github.com/user-attachments/assets/c0bd8861-26f3-4c31-8d3d-5cab3a970329" />
 <img width="1612" height="906" alt="DEMOGRAPHICS_INSIGHTS_PAGE" src="https://github.com/user-attachments/assets/ebb9caa1-d54c-44ee-845f-95b12a3d5126" />
