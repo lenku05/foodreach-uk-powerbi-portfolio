@@ -1,0 +1,96 @@
+Data Dictionary - FoodReach UK
+
+Dataset: UK Food Bank Distribution Data
+Source: FoodReach UK Operations System (Simulated)
+Date Range: January 2021 - December 2024
+Grain: Monthly aggregation by local authority
+Total Records: 2,088
+
+Fact Table: Fact_FoodBank
+Description: Core distribution metrics at monthly × location grain
+Field NameData TypeDescriptionExampleBusiness RulesDateDateFirst day of distribution month2024-01-01Always 1st of month; no future datesTotal_ParcelsIntegerTotal food parcels distributed in month850Sum of Children + Adult parcels; never nullChildren_ParcelsIntegerParcels specifically for children (<18)340Subset of Total_Parcels; 0 ≤ value ≤ TotalAdult_ParcelsIntegerParcels for adults510Subset of Total_Parcels; 0 ≤ value ≤ TotalPct_ChildrenPercentagePercentage of parcels for children40.0%Calculated: Children ÷ TotalDeprivation_DecileIntegerONS deprivation ranking of area21 = most deprived, 10 = least deprivedLocation_KeyIntegerForeign key to DimLocation15Links to unique location identifierReferral_KeyIntegerForeign key to DimReferral3Links to referral source
+
+Dimension Tables
+DimDate
+Description: Calendar dimension for time-based analysis
+Field NameData TypeDescriptionExampleDateDateCalendar date (primary key)2024-01-15YearIntegerCalendar year2024QuarterTextQuarter designationQ1Month_NumberIntegerMonth number (1-12)1Month_NameTextFull month nameJanuaryMonth_ShortTextAbbreviated monthJanYear_MonthTextYear-Month for sorting2024-01Week_Of_YearIntegerISO week number3Day_NameTextDay of weekMonday
+Records: 1,461 (daily from 2021-01-01 to 2024-12-31)
+
+DimLocation
+Description: Geographic hierarchy and socioeconomic context
+Field NameData TypeDescriptionExampleLocation_KeyIntegerUnique identifier (primary key)15RegionTextUK regionNorth EastLocal_AuthorityTextCouncil/local authority nameNewcastleDeprivation_DecileIntegerArea deprivation ranking2
+Records: 44 (unique local authorities)
+Regions Included:
+
+North East, North West, Yorkshire, West Midlands, East Midlands
+East, London, South East, South West, Wales, Scotland
+
+Deprivation Context:
+
+Decile 1-3: High deprivation (frequent food bank use)
+Decile 4-7: Moderate deprivation
+Decile 8-10: Low deprivation (rare food bank use)
+
+
+DimReferral
+Description: Referral source categories
+Field NameData TypeDescriptionExampleReferral_KeyIntegerUnique identifier (primary key)3Referral_SourceTextOrganization/source that referred familyJobcentre Plus
+Records: 8
+Referral Sources:
+
+Jobcentre Plus (unemployment services) - ~35% of referrals
+Social Services - ~20%
+School/College - ~12%
+Health Services - ~10%
+Housing Services - ~8%
+Self Referral - ~7%
+Citizens Advice - ~5%
+Unknown - ~5% (missing data)
+
+
+Data Quality Notes
+Missing Values
+
+Referral_Source: 5% of records (handled as "Unknown" category)
+All other fields: 0% missing (complete data)
+
+Data Validation Rules
+
+Total_Parcels = Children_Parcels + Adult_Parcels (enforced)
+Date range: 2021-01-01 to 2024-12-31 (no outliers)
+Deprivation_Decile: Integer 1-10 only (validated against ONS)
+
+Known Limitations
+
+Monthly grain (daily detail not available)
+No household-level tracking (privacy protection)
+Population data from 2019 census (static, not annually updated)
+Simulated data for portfolio purposes (patterns based on real trends)
+
+
+Calculation Definitions
+Key Metrics
+Per-Capita Rate:
+Parcels Per 1000 Population = (Total Parcels / Population in 1000s)
+Normalizes demand by area size for fair comparison
+Year-over-Year Growth:
+YoY Growth % = ((Current Year - Previous Year) / Previous Year) × 100
+Measures demand change vs same period last year
+Seasonal Index:
+Winter months = December, January, February
+Seasonal spike = (Winter Average - Annual Average) / Annual Average
+Quantifies winter demand increase
+
+Business Glossary
+TermDefinitionFood ParcelEmergency food provision (typically 3 days' worth of nutritionally balanced food)ReferralOfficial recommendation from authorized agency for family to receive food bank supportDeprivation DecileUK government ranking of area poverty (1=poorest, 10=wealthiest)Local AuthorityUK council/government district (e.g., Newcastle City Council)Emergency SupportShort-term food provision during crisis (job loss, benefit delay, unexpected expense)
+
+Source Data Provenance
+Original Source: FoodReach UK Operations Database (Simulated)
+Extraction Date: January 2025
+Refresh Frequency: Monthly (real-world deployment)
+Data Steward: Operations Team
+Data Classification: Public (anonymized, no personal identifiers)
+
+Last Updated: [05/02/2026]
+Document Owner: [ALLAN MPAA]
+Version: 1.0
